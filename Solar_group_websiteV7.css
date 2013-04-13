@@ -11,13 +11,12 @@ a {
 }
 
 body {
-	background: url('http://uncmain.sites.unc.edu/files/2013/04/spring2012.student.musician.jpg') no-repeat;
-	background-position: top center;
+	background-color:#333;
 	background-attachment: fixed;
 	background-size: cover;
 	position: relative;
 	color: #333;
-	height: 1100px;
+	height:1100px;
 	width: 1000px;
 	border: 0px solid #666;
 	font-family: 'Roboto', sans-serif;
@@ -58,7 +57,7 @@ body {
 	height: 110px;
 	display: block;
 	float: left;
-	padding-left: 4px;
+	padding-left: 15px;
 
 }
 
@@ -159,14 +158,21 @@ body {
 /******* Body *****/
 
 .column {
-	float: left;
-	height: 900px;
-	width: 500px;
+	border:1px solid #222;
+	height:900px;
+	
+	top:0px;
 }
 
 #right_main {
-	left: 510px;
-	position: absolute;
+	left: 750px;
+	width:248px;
+	position:absolute;
+
+}
+#left_main{
+	width:748px;
+	
 }
 
 #main_pic {
@@ -182,8 +188,6 @@ body {
 	padding: 8px 16px;
 	font-size: 16px;
 	font-weight: normal;
-	text-align: center;
-	width: 420px;
 }
 
 .stuff a {
@@ -194,13 +198,35 @@ body {
 	color: #888;
 }
 
+.news_block{
+	margin-top:10px;
+	margin-bottom:60px;
+}
+
+.news_block_imgs{
+	position:absolute;
+	left:432px;
+}
+
+.news_block_words{
+	width:400px;
+}
+
+.stuff_title{
+	border-bottom:1px solid #222;
+	padding-bottom:0px;
+	height:36px;
+}
+
+.clear { clear: both; }
+
 /******* Footer *******/
 footer {
 	margin: 10px;
 	position: absolute;
-	top: 950px;
 	width: 100%;
 	height: 100px;
+	bottom:30px;
 }
 
 footer a {
@@ -229,114 +255,3 @@ footer a:hover {
 	padding-left: 150px;
 }
 
-/*Copied from Bezos*/
-.tn3e-gallery {
-position: relative;
-width: 500px;
-height: 369px;
-margin: 0 0 20px 0;
-}
-
-.tn3e-image {
-position: absolute;
-left: 0;
-top: 0;
-width: 500px;
-height: 281px;
-background-color: #000;
-}
-.tn3e-image-in {
-z-index: 999;
-cursor: pointer;
-}
-.tn3e-full-image {
-box-shadow: 0 0 5px rgba(40, 40, 40, 1);
--webkit-box-shadow: 0 0 5px rgba(40, 40, 40, 1);
--moz-box-shadow: 0 0 5px rgba(40, 40, 40, 1);
-}
-.tn3e-gallery img {
-margin: 0 !important;
-padding: 0 !important;
-border: 0 !important;
-max-width: none !important;
-}
-.tn3-in-image {
-z-index: 998;
-}
-.tn3e-preloader {
-position: absolute;
-width: 22px;
-height: 8px;
-right: 5px;
-top: 5px;
-}
-.tn3e-timer {
-position: absolute;
-width: 100%;
-height: 4px;
-bottom: 0px;
-background: url('http://www.bezosexpeditions.com/bg.png') repeat;
-background: rgba(0, 0, 0, 0.3);
-}
-.tn3e-text {
-position: absolute;
-left: 30px;
-bottom: 46px;
-width: 450px;
-height: 40px;
-vertical-align: middle;
-overflow: hidden;
-}
-.tn3e-next {
-position: absolute;
-background-image: url('http://www.bezosexpeditions.com/tn3e.png');
-background-position: -20px -3px;
-width: 13px;
-height: 17px;
-right: 7px;
-bottom: 12px;
-cursor: pointer;
-}
-.tn3e-prev {
-position: absolute;
-background-image: url('http://www.bezosexpeditions.com/tn3e.png');
-background-position: -2px -3px;
-width: 13px;
-height: 17px;
-left: 7px;
-bottom: 12px;
-cursor: pointer;
-}
-.tn3e-thumbs {
-position: absolute;
-width: 444px;
-height: 41px;
-bottom: 0;
-left: 28px;
-}
-.tn3e-thumbs ul, .tn3e-thumbs li {
-margin: 0 !important;
-list-style-type: none !important;
-}
-.tn3e-thumb {
-padding: 0 2px;
-cursor: pointer;
-}
-.tn3e-thumb img {
-width: 80px;
-height: 45px;
-}
-.tn3e-thumb-selected {
-cursor: default;
-}
-.tn3e-albums {
-position: absolute;
-width: 920px;
-height: 510px;
-left: 20px;
-top: 20px;
-font-family: Arial, Helvetica, sans-serif;
-color: #ffffff;
-background-image: url('http://www.bezosexpeditions.com/bg.png');
-background: rgba(0, 0, 0, 0.8);
-}
