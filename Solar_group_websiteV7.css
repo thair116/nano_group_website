@@ -167,11 +167,6 @@ body {
 	
 }
 
-#main_pic {
-	float: right;
-	text-align: center;
-	position: absolute;
-}
 #join.fixed {
 	position: fixed;
 	top: 160px;
@@ -190,17 +185,29 @@ body {
 	color: #888;
 }
 
-.news_block{
+.news_block, .research_block{
 	margin-top:10px;
-	margin-bottom:60px;
+	margin-bottom:20px;
 	overflow:hidden;
 }
 
-.news_block_imgs{
-	float:right;
+.research_block {
+
 }
 
-.news_block_words{
+.research_block_imgs{
+
+}
+
+.research_block_words {
+	
+}
+.news_block_imgs, .research_block_imgs{
+	float:right;
+	margin-top:25px;
+}
+
+.news_block_words, .research_block_words{
 	width:400px;
 	float:left;
 }
@@ -212,6 +219,13 @@ body {
 }
 
 .clear { clear: both; }
+
+#papers ul{
+	list-style:none;
+}
+#papers li{
+	margin-bottom:10px;
+}
 
 /******* Footer *******/
 footer {
