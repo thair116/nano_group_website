@@ -13,6 +13,7 @@ a {
 
 html {
 	height:100%;
+
 }
 body {
 	background-color:#333;
@@ -25,7 +26,7 @@ body {
 	margin-right: auto;
 	margin-top:0;
 	margin-bottom:0;
-	opacity: .96;
+	opacity: 1;
 
 }
 
@@ -35,6 +36,7 @@ body {
 	width: inherit;
 	clear: both;
 	float: left;
+	min-height: 60%;
 	
 
 }
@@ -73,14 +75,15 @@ body {
 	line-height: 2px;
 }
 
-#access {
+.access {
 	display: block;
 	background: #56A0D3;
 	height: 40px;
 	float: left;
 	width: 1000px;
+	opacity:0.95;
 }
-#access.fixed {
+.access.fixed {
 	position: fixed;
 	top: 0;
 	z-index: 999;
@@ -94,45 +97,45 @@ body {
 	position: relative;
 }
 
-#access a {
+.access a {
 	display: block;
 	line-height: 2em;
 	padding: 0 1em;
 	color: #333;
 }
 
-#menu-main_nav {
+.menu-main_nav {
 	font-size: 16px;
 	margin: 0px;
 	font-weight: normal;
 	list-style: none;
 }
 
-#menu-main_nav a {
+.menu-main_nav a {
 	padding: 4px 16px;
 	font-size: 16px;
 	font-weight: normal;
 	text-align: center;
 }
 
-#div-sub_nav {
+.div-sub_nav {
 	display: none;
 	left: -15px;
 	position: absolute;
 	margin: 30px 0px 5px 15px;
 	top: 10px;
 }
-#div-sub_nav ul {
+.div-sub_nav ul {
 	display: block;
 	float: left;
 	list-style: none;
 	position: relative;
 	width: 140px;
 	z-index: 99999;
-	background: #dedede
+	background: #dedede;
 }
 
-#div-sub_nav ul li a {
+.sub_menu-item a {
 	text-align: left;
 	text-transform: none;
 	line-height: 1em;
@@ -140,17 +143,27 @@ body {
 	font-size: 16px;
 }
 
-#div-sub_nav table {
-	position: }
+.div-sub_nav table {
+	width:100%;
+	border:0;
+	cellspacing:0;
+	cellpadding:0;
+	padding:0px;
+	margin:0px;
+	border-spacing:0;
+}
 
 	.menu-item:hover > a,
-	#div-sub_nav ul:hover > a {
+	.div-sub_nav ul:hover > a {
 	background: #dedede;
 }
-#div-sub_nav ul a:hover {
+.selected_tab{
+	background:#dedede;
+}
+.div-sub_nav ul a:hover {
 	background: #cecece;
 }
-#access ul li:hover > ul {
+.access ul li:hover > ul {
 	display: block;
 	background: #dedede;
 	
@@ -192,7 +205,8 @@ body {
 
 
 
-.research_block {
+.research_block,
+.bio_block{
 	margin-top:10px;
 	margin-bottom:20px;
 	overflow:hidden;
@@ -202,7 +216,7 @@ body {
 	margin-right:10px;
 }
 
-.research_block_words {
+.research_block_words{
 	width:inherit;
 }
 
@@ -212,12 +226,14 @@ body {
 	overflow:hidden;
 }
 
-.news_block_imgs{
+.news_block_imgs,
+.bio_block_img{
 	float:right;
 	margin-top:25px;
 }
 
-.news_block_words{
+.news_block_words,
+.bio_block_words{
 	width:400px;
 	float:left;
 }
@@ -235,6 +251,15 @@ body {
 }
 #papers li{
 	margin-bottom:10px;
+}
+
+#CV{
+	float:right;
+	width:300px;
+}
+.bio_contact{
+	width:400px;
+	float:left;
 }
 
 /******* Footer *******/
