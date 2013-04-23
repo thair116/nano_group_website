@@ -1,35 +1,5 @@
 $(document).ready(function() {
 
-	xmlhttp=new XMLHttpRequest();
-	xmlhttp.open("GET","./test.xml",false);
-	xmlhttp.send();
-	xmlDoc=xmlhttp.responseXML;
-
-	/*document.getElementById("res_title1").innerHTML=
-	xmlDoc.getElementsByTagName("research")[0].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-	document.getElementById("res_descrip1").innerHTML=
-	xmlDoc.getElementsByTagName("research")[0].getElementsByTagName("description")[0].childNodes[0].nodeValue;
-	*/
-
-	document.getElementById("res_title2").innerHTML=
-	xmlDoc.getElementsByTagName("research")[1].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-	document.getElementById("res_descrip2").innerHTML=
-	xmlDoc.getElementsByTagName("research")[1].getElementsByTagName("description")[0].childNodes[0].nodeValue;
-
-	document.getElementById("res_title3").innerHTML=
-	xmlDoc.getElementsByTagName("research")[2].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-	document.getElementById("res_descrip3").innerHTML=
-	xmlDoc.getElementsByTagName("research")[2].getElementsByTagName("description")[0].childNodes[0].nodeValue;
-
-	document.getElementById("news_title1").innerHTML=
-	xmlDoc.getElementsByTagName("news")[0].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-	document.getElementById("news_descrip1").innerHTML=
-	xmlDoc.getElementsByTagName("news")[0].getElementsByTagName("description")[0].childNodes[0].nodeValue;
-
-	document.getElementById("news_title2").innerHTML=
-	xmlDoc.getElementsByTagName("news")[1].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-	document.getElementById("news_descrip2").innerHTML=
-	xmlDoc.getElementsByTagName("news")[1].getElementsByTagName("description")[0].childNodes[0].nodeValue;
 
 	$('.last > a').click(function() {
 		return false;
