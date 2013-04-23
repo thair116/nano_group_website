@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<file xmlns="http://bibtexml.sf.net/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:date>2013-04-23T16:07:32-0400</dc:date>
+      <dc:format>text/xml</dc:format>
+      <dc:identifier>urn:uuid:92fc6d57-acaf-493e-b982-517e2013fb73</dc:identifier>
+  </metadata>
+  <entry id="donev2009">
+      <article>
+         <author>Donev, EU</author>
+         <author>Lopez, Rene</author>
+         <author>Feldman, LC</author>
+         <author>Jr, RF Haglund</author>
+         <file>:Users/twh116/Downloads/Donev\_VO2\_Nano-Raman.pdf:pdf</file>
+         <journal>Nano letters</journal>
+         <number>Figure 1</number>
+         <title>{Confocal Raman Microscopy across the Metal&#226;&#65533;&#65533;&#65533;&#65533;&#65533; Insulator Transition of Single Vanadium Dioxide Nanoparticles}</title>
+         <url>http://pubs.acs.org/doi/abs/10.1021/nl8031839</url>
+         <year>2009</year>
+      </article>
+  </entry>
+  <entry id="jepsen2006">
+      <article>
+         <author>Jepsen, Peter</author>
+         <author>Fischer, Bernd</author>
+         <author>Thoman, Andreas</author>
+         <author>Helm, Hanspeter</author>
+         <author>Suh, J.</author>
+         <author>Lopez, Ren&#233;</author>
+         <author>Haglund, R.</author>
+         <doi>10.1103/PhysRevB.74.205103</doi>
+         <file>:Users/twh116/Downloads/JepsenPRB2006.pdf:pdf</file>
+         <issn>1098-0121</issn>
+         <journal>Physical Review B</journal>
+         <month>November</month>
+         <number>20</number>
+         <pages>205103</pages>
+         <title>{Metal-insulator phase transition in a VO2 thin film observed with terahertz spectroscopy}</title>
+         <url>http://link.aps.org/doi/10.1103/PhysRevB.74.205103</url>
+         <volume>74</volume>
+         <year>2006</year>
+      </article>
+  </entry>
+  <entry id="ko2009">
+      <article>
+         <abstract>We report organic solar cells with a photonic crystal nanostructure embossed in the photoactive bulk heterojunction layer, a topography that exhibits a 3-fold enhancement of the absorption in specific regions of the solar spectrum in part through multiple excitation resonances. The photonic crystal geometry is fabricated using a materials-agnostic process called PRINT wherein highly ordered arrays of nanoscale features are readily made in a single processing step over wide areas (approximately 4 cm(2)) that is scalable. We show efficiency improvements of approximately 70\% that result not only from greater absorption, but also from electrical enhancements. The methodology is generally applicable to organic solar cells and the experimental findings reported in our manuscript corroborate theoretical expectations.</abstract>
+         <author>Ko, Doo-Hyun</author>
+         <author>Tumbleston, John R</author>
+         <author>Zhang, Lei</author>
+         <author>Williams, Stuart</author>
+         <author>DeSimone, Joseph M</author>
+         <author>Lopez, Rene</author>
+         <author>Samulski, Edward T</author>
+         <doi>10.1021/nl901232p</doi>
+         <file>:Users/twh116/Downloads/nl901232p.pdf:pdf</file>
+         <issn>1530-6992</issn>
+         <journal>Nano letters</journal>
+         <keywords>Aluminum</keywords>
+         <keywords>Aluminum: chemistry</keywords>
+         <keywords>Crystallization</keywords>
+         <keywords>Microscopy</keywords>
+         <keywords>Electron</keywords>
+         <keywords>Scanning</keywords>
+         <keywords>Nanostructures</keywords>
+         <keywords>Nanostructures: chemistry</keywords>
+         <keywords>Photons</keywords>
+         <keywords>Solar Energy</keywords>
+         <keywords>Zinc Oxide</keywords>
+         <keywords>Zinc Oxide: chemistry</keywords>
+         <month>July</month>
+         <number>7</number>
+         <pages>2742-6</pages>
+         <pmid>19492804</pmid>
+         <title>{Photonic crystal geometry for organic solar cells.}</title>
+         <url>http://www.ncbi.nlm.nih.gov/pubmed/19492804</url>
+         <volume>9</volume>
+         <year>2009</year>
+      </article>
+  </entry>
+  <entry id="lopez2004">
+      <article>
+         <author>Lopez, Rene</author>
+         <author>Haglund, Richard F.</author>
+         <author>Feldman, Leonard C.</author>
+         <author>Boatner, Lynn a.</author>
+         <author>Haynes, Tony E.</author>
+         <doi>10.1063/1.1826232</doi>
+         <file>:Users/twh116/Downloads/ApplPhysLett\_85\_5191.pdf:pdf</file>
+         <issn>00036951</issn>
+         <journal>Applied Physics Letters</journal>
+         <number>22</number>
+         <pages>5191</pages>
+         <title>{Optical nonlinearities in VO[sub 2] nanoparticles and thin films}</title>
+         <url>http://link.aip.org/link/APPLAB/v85/i22/p5191/s1\&amp;Agg=doi</url>
+         <volume>85</volume>
+         <year>2004</year>
+      </article>
+  </entry>
+  <entry id="rozen2006">
+      <article>
+         <author>Rozen, John</author>
+         <author>Lopez, Rene&#65533;&#65533;</author>
+         <author>Haglund, Richard F.</author>
+         <author>Feldman, Leonard C.</author>
+         <doi>10.1063/1.2175490</doi>
+         <file>:Users/twh116/Downloads/APL\_081902.pdf:pdf</file>
+         <issn>00036951</issn>
+         <journal>Applied Physics Letters</journal>
+         <number>8</number>
+         <pages>081902</pages>
+         <title>{Two-dimensional current percolation in nanocrystalline vanadium dioxide films}</title>
+         <url>http://link.aip.org/link/APPLAB/v88/i8/p081902/s1\&amp;Agg=doi</url>
+         <volume>88</volume>
+         <year>2006</year>
+      </article>
+  </entry>
+  <entry id="tumbleston2009">
+      <article>
+         <abstract>We analyze optical absorption enhancements and quasiguided mode properties of organic solar cells with highly ordered nanostructured photoactive layers comprised of the bulk heterojunction blend, poly-3-hexylthiophene/[6,6]-phenyl-C61-butyric acid methyl ester (P3HT:PCBM) and a low index of refraction conducting material (LICM). This photonic crystal geometry is capable of enhancing spectral absorption by approximately 17\% in part due to the excitation of quasiguided modes near the band edge of P3HT:PCBM. A nanostructure thickness between 200 nm and 300 nm is determined to be optimal, while the LICM must have an index of refraction approximately 0.3 lower than P3HT:PCBM to produce absorption enhancements. Quasiguided modes that differ in lifetime by an order of magnitude are also identified and yield absorption that is concentrated in the P3HT:PCBM flash layer.</abstract>
+         <author>Tumbleston, John R</author>
+         <author>Ko, Doo-Hyun</author>
+         <author>Samulski, Edward T</author>
+         <author>Lopez, Rene</author>
+         <file>:Users/twh116/Downloads/oe-17-9-7670.pdf:pdf</file>
+         <issn>1094-4087</issn>
+         <journal>Optics express</journal>
+         <keywords>Absorption</keywords>
+         <keywords>Computer-Aided Design</keywords>
+         <keywords>Crystallization</keywords>
+         <keywords>Crystallization: methods</keywords>
+         <keywords>Electric Power Supplies</keywords>
+         <keywords>Equipment Design</keywords>
+         <keywords>Equipment Failure Analysis</keywords>
+         <keywords>Organic Chemicals</keywords>
+         <keywords>Organic Chemicals: chemistry</keywords>
+         <keywords>Reproducibility of Results</keywords>
+         <keywords>Sensitivity and Specificity</keywords>
+         <keywords>Solar Energy</keywords>
+         <month>April</month>
+         <number>9</number>
+         <pages>7670-81</pages>
+         <pmid>19399146</pmid>
+         <title>{Absorption and quasiguided mode analysis of organic solar cells with photonic crystal photoactive layers.}</title>
+         <url>http://www.ncbi.nlm.nih.gov/pubmed/19399146</url>
+         <volume>17</volume>
+         <year>2009</year>
+      </article>
+  </entry>
+  <entry id="tumbleston2009a">
+      <article>
+         <author>Tumbleston, John R.</author>
+         <author>Ko, Doo-Hyun</author>
+         <author>Samulski, Edward T.</author>
+         <author>Lopez, Rene</author>
+         <doi>10.1063/1.3075053</doi>
+         <file>:Users/twh116/Downloads/ApplPhysLett\_94\_043305.pdf:pdf</file>
+         <issn>00036951</issn>
+         <journal>Applied Physics Letters</journal>
+         <number>4</number>
+         <pages>043305</pages>
+         <title>{Electrophotonic enhancement of bulk heterojunction organic solar cells through photonic crystal photoactive layer}</title>
+         <url>http://link.aip.org/link/APPLAB/v94/i4/p043305/s1\&amp;Agg=doi</url>
+         <volume>94</volume>
+         <year>2009</year>
+      </article>
+  </entry>
+  <entry id="rini2005">
+      <article>
+         <author>Rini, Matteo</author>
+         <author>Cavalleri, Andrea</author>
+         <author>Schoenlein, RW</author>
+         <file>:Users/twh116/Downloads/proofs rini paper.pdf:pdf</file>
+         <journal>Optics \ldots</journal>
+         <number>5</number>
+         <pages>1-3</pages>
+         <title>{Photoinduced phase transition in VO 2 nanocrystals : ultrafast control of surface-plasmon resonance}</title>
+         <url>http://www.opticsinfobase.org/abstract.cfm?\&amp;id=82749</url>
+         <volume>30</volume>
+         <year>2005</year>
+      </article>
+  </entry>
+  <entry id="lopez2004a">
+      <article>
+         <author>Lopez, R.</author>
+         <author>Feldman, L.</author>
+         <author>Haglund, R.</author>
+         <doi>10.1103/PhysRevLett.93.177403</doi>
+         <file>:Users/twh116/Downloads/Lopez 2004 PRL V.93.pdf:pdf</file>
+         <issn>0031-9007</issn>
+         <journal>Physical Review Letters</journal>
+         <month>October</month>
+         <number>17</number>
+         <pages>177403</pages>
+         <title>{Size-Dependent Optical Properties of VO2 Nanoparticle Arrays}</title>
+         <url>http://link.aps.org/doi/10.1103/PhysRevLett.93.177403</url>
+         <volume>93</volume>
+         <year>2004</year>
+      </article>
+  </entry>
+  <entry id="suh2004">
+      <article>
+         <author>Suh, J. Y.</author>
+         <author>Lopez, R.</author>
+         <author>Feldman, L. C.</author>
+         <author>Haglund, R. F.</author>
+         <doi>10.1063/1.1762995</doi>
+         <file>:Users/twh116/Downloads/JApplPhys\_96\_1209.pdf:pdf</file>
+         <issn>00218979</issn>
+         <journal>Journal of Applied Physics</journal>
+         <number>2</number>
+         <pages>1209</pages>
+         <title>{Semiconductor to metal phase transition in the nucleation and growth of VO[sub 2] nanoparticles and thin films}</title>
+         <url>http://link.aip.org/link/JAPIAU/v96/i2/p1209/s1\&amp;Agg=doi</url>
+         <volume>96</volume>
+         <year>2004</year>
+      </article>
+  </entry>
+</file>

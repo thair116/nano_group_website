@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;citationsToHTML.java&apos; to &apos;ReadXMLFile.java&apos;&#x0A;- Original project: &apos;CitationsToHTML&apos;&#x0A;- Original element: &apos;citationsToHTML.java&apos;&#x0A;- Renamed element: &apos;ReadXMLFile.java&apos;" description="Rename compilation unit &apos;citationsToHTML.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{citationsToHTML.java" name="ReadXMLFile.java" references="false" stamp="1366748253582" version="1.0"/>
+</session>
