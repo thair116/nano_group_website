@@ -180,12 +180,14 @@ body {
 }
 
 #right_main {
-	width:248px;
+	/*width:248px;*/
+	width:148px;
 	float:right;
 
 }
 #left_main{
-	width:748px;
+	/*width:748px;*/
+	width:848px;
 	
 }
 
@@ -304,3 +306,17 @@ footer a:hover {
 	margin-left: 150px;
 }
 
+/******** Directions page *****/
+ 
+ .directions{
+ 	width:450px;
+ }
+ .directions ol{
+ 	margin-left:22px;
+
+ }
+
+ #directions_map{
+ 	margin-top:20px;
+ 	float:right;
+ }
