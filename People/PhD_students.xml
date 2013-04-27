@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<file>
+<person>
+		<name>
+			<first> Yingchi </first>
+			<last> Liu </last>
+		</name>
+		<position> Ph.D. Candidate </position>
+		<bio></bio>
+		<contact>
+			<email> tigerliu@email.unc.edu </email>
+			<address>
+				<line>  </line>
+				<line>  </line>
+				<line>  </line>
+			</address>
+			<phone> </phone>
+			<fax> </fax>
+		</contact>
+		<CV></CV>
+	</person>
+</file>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<file>
+	<research>
+		<date_begin>
+			<month></month>
+			<day></day>
+			<year></year>
+		</date_begin>
+		<date_end>
+			<month></month>
+			<day></day>
+			<year></year>
+		</date_end>
+		<title></title>
+		<summary></summary>
+		<full_description></full_description>
+		<people></people>
+		<pictures>
+			<link_small></link_small>
+			<link_large></link_large>
+		</pictures>
+		<tags></tags>
+	</research>
+</file>
