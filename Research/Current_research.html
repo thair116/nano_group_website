@@ -17,6 +17,20 @@
 	<script type="text/javascript" src="../initV7.js"></script>
 	<title>Nanoscale Optical Materials</title>
 	<link rel="shortcut icon" href="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sun.svg/35px-Sun.svg.png">
+	<script>
+	$(document).ready(function() {
+
+	xmlhttp=new XMLHttpRequest();
+	xmlhttp.open("GET","../test.xml",false);
+	xmlhttp.send();
+	xmlDoc=xmlhttp.responseXML;
+	
+	document.getElementById("res_title2").innerHTML=
+	xmlDoc.getElementsByTagName("research")[1].getElementsByTagName("title")[0].childNodes[0].nodeValue;
+	document.getElementById("res_descrip2").innerHTML=
+	xmlDoc.getElementsByTagName("research")[1].getElementsByTagName("description")[0].childNodes[0].nodeValue;
+});
+	</script>
 </head>
 <body id="body">
 	<header id="header">
@@ -36,7 +50,7 @@
 		<nav class="access">
 			<div class="menu-main_nav-container">
 				<ul class="menu-main_nav">
-					<li class="last menu-item">
+					<li class="menu-item">
 						<a> About </a>
 						<div class="div-sub_nav">
 							<table>
@@ -48,9 +62,6 @@
 													<a href="../About/Lab_facilities.html"> Lab facilities</a>
 												</li>
 												<li class="sub_menu-item">
-													<a href="../About/Building.html"> Building</a>
-												</li>
-												<li class="sub_menu-item">
 													<a href="../About/Directions.html"> Directions</a>
 												</li>
 											</ul>
@@ -60,8 +71,8 @@
 							</table>
 						</div>
 					</li>
-					<li class="last menu-item  selected_tab">
-						<a> Research </a>
+					<li class="menu-item  selected_tab">
+						<a href="../Research/Current_research.html"> Research </a>
 						<div class="div-sub_nav">
 							<table>
 								<tbody>
@@ -96,16 +107,13 @@
 													<a href="../People/Rene_Lopez.html"> Dr. Rene Lopez </a>
 												</li>
 												<li class="sub_menu-item">
-													<a href="../People/Post-docs.html"> Post-docs</a>
+													<a href="../People/Postdocs.html"> Postdocs</a>
 												</li>
 												<li class="sub_menu-item">
 													<a href="../People/PhD_students.html"> Ph.D. Students</a>
 												</li>
 												<li class="sub_menu-item">
 													<a href="../People/Undergrad_students.html"> Undergrad Students</a>
-												</li>
-												<li class="sub_menu-item">
-													<a href="../People/Collaborators.html"> Collaborators</a>
 												</li>
 												<li class="sub_menu-item">
 													<a href="../People/Alumni.html"> Alumni</a>
@@ -121,7 +129,7 @@
 						<a href="../Resources/Resources.html"> Resources </a>
 					</li>
 					<li class="menu-item">
-						<a href="../Employment/Employment.html"> Employment </a>
+						<a href="../Join/Join.html"> Join </a>
 					</li>
 				</ul>
 			</div>
@@ -129,6 +137,25 @@
 	</header>
 	<div id="main">
 		<div id="left_main" class="column">
+			<div id="research" class="stuff">
+				<div class="stuff_title">
+					<h2><a href="http://research.physics.unc.edu/project/rln/Research%20projects.html"> Current Research </a></h2>
+				</div>
+				<div class="research_block">
+					<div class="research_block_words">
+						<h3 id="res_title2">Insert title here</h3>
+						<p id="res_descrip2">
+							Insert description here
+						</p>
+					</div>
+					<div class="research_block_imgs">
+						<a class="fancybox" rel="group" href="../images/Space_shuttle2Big.jpg"><img src="../images/Space_shuttle2Xsmall.jpg" alt="" /></a>
+						<a class="fancybox" rel="group" href="../images/Space_shuttle2Big.jpg"><img src="../images/Space_shuttle2Xsmall.jpg" alt="" /></a>
+						<a class="fancybox" rel="group" href="../images/Space_shuttle2Big.jpg"><img src="../images/Space_shuttle2Xsmall.jpg" alt="" /></a>
+						<a class="fancybox" rel="group" href="../images/Space_shuttle2Big.jpg"><img src="../images/Space_shuttle2Xsmall.jpg" alt="" /></a>
+					</div>
+				</div>
+			</div>
 		</div>
 		<div id="right_main" class="column">
 		</div>
