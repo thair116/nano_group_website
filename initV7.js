@@ -6,10 +6,10 @@ $(document).ready(function() {
 	});
 
 
-	$('.last').hover(function() {
-		$(this).find('.div-sub_nav').stop(true,true).slideDown(200).delay(500);
+	$('.menu-item').hover(function() {
+		$(this).find('.div-sub_nav').stop(true,true).slideDown(2).delay(350);
 	}, function() {
-		$(this).find('.div-sub_nav').slideUp(200);
+		$(this).find('.div-sub_nav').slideUp(2);
 	});
 
 	var top = $('.access').offset().top;
