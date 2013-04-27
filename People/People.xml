@@ -37,23 +37,18 @@
 			<first> </first>
 			<last> </last>
 		</name>
-		<position>
-		</position>
-		<bio>
-		</bio>
+		<position></position>
+		<bio></bio>
 		<contact>
-			<email>
-			</email>
+			<email></email>
 			<address>
-				<line1>  </line1>
-				<line2>  </line2>
-				<line3>  </line3>
-				<line4>  </line4>
+				<line>  </line>
+				<line>  </line>
+				<line>  </line>
 			</address>
-			<phone>
-			</phone>
+			<phone> </phone>
+			<fax> </fax>
 		</contact>
-		<CV>
-		</CV>
+		<CV></CV>
 	</person>
 </people>
