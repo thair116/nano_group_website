@@ -19,6 +19,15 @@
 	<link rel="shortcut icon" href="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sun.svg/35px-Sun.svg.png">
 	<script>
 	$(document).ready(function() {
+
+		// Check for geolocation support
+		if (navigator.geolocation) {
+		// Use method getCurrentPosition to get coordinates
+		navigator.geolocation.getCurrentPosition(function (position) {
+		// Access them accordingly
+		console.log(position.coords.latitude + ", " + position.coords.longitude);
+	});
+	}
 	/* Home page initialization */
 
 	xmlhttp=new XMLHttpRequest();
@@ -52,8 +61,8 @@
 	document.getElementById("news_descrip2").innerHTML=
 	xmlDoc.getElementsByTagName("news")[1].getElementsByTagName("description")[0].childNodes[0].nodeValue;
 });
-	/* End home page initialization */
-	</script>
+/* End home page initialization */
+</script>
 </head>
 <body id="body">
 	<header id="header">
@@ -70,12 +79,10 @@
 				</p>
 			</div>
 		</hgroup>
-		<div class="access_filler">
-		</div>
 		<nav class="access">
 			<div class="menu-main_nav-container">
 				<ul class="menu-main_nav">
-					<li class="last menu-item">
+					<li class="menu-item">
 						<a> About </a>
 						<div class="div-sub_nav">
 							<table>
@@ -87,9 +94,6 @@
 													<a href="./About/Lab_facilities.html"> Lab facilities</a>
 												</li>
 												<li class="sub_menu-item">
-													<a href="./About/Building.html"> Building</a>
-												</li>
-												<li class="sub_menu-item">
 													<a href="./About/Directions.html"> Directions</a>
 												</li>
 											</ul>
@@ -99,8 +103,8 @@
 							</table>
 						</div>
 					</li>
-					<li class="last menu-item">
-						<a> Research </a>
+					<li class="menu-item">
+						<a href="./Research/Current_research.html"> Research </a>
 						<div class="div-sub_nav">
 							<table>
 								<tbody>
@@ -135,16 +139,13 @@
 													<a href="./People/Rene_Lopez.html"> Dr. Rene Lopez </a>
 												</li>
 												<li class="sub_menu-item">
-													<a href="./People/Post-docs.html"> Post-docs</a>
+													<a href="./People/Postdocs.html"> Postdocs</a>
 												</li>
 												<li class="sub_menu-item">
 													<a href="./People/PhD_students.html"> Ph.D. Students</a>
 												</li>
 												<li class="sub_menu-item">
 													<a href="./People/Undergrad_students.html"> Undergrad Students</a>
-												</li>
-												<li class="sub_menu-item">
-													<a href="./People/Collaborators.html"> Collaborators</a>
 												</li>
 												<li class="sub_menu-item">
 													<a href="./People/Alumni.html"> Alumni</a>
@@ -160,7 +161,7 @@
 						<a href="./Resources/Resources.html"> Resources </a>
 					</li>
 					<li class="menu-item">
-						<a href="./Employment/Employment.html"> Employment </a>
+						<a href="./Join/Join.html"> Join </a>
 					</li>
 				</ul>
 			</div>
@@ -170,7 +171,7 @@
 		<div id="left_main" class="column">
 			<div id="research" class="stuff">
 				<div class="stuff_title">
-					<h2><a href="http://research.physics.unc.edu/project/rln/Research%20projects.html"> Current Research </a></h2>
+					<h2><a href="./Research/Current_research.html"> Current Research </a></h2>
 				</div>
 				<div class="research_block">
 					<div class="research_block_words">
@@ -224,54 +225,54 @@
 			</div>
 			<div id="news" class="stuff">
 				<div class="stuff_title">
-					<h2><a href="http://research.physics.unc.edu/project/rln/Research%20projects.html"> Recent News </a></h2>
-				</div>
-				<div class="news_block" id="news1">
-					<div class="news_block_imgs">
-						<a class="fancybox" rel="group" href="./images/Space_shuttleBig.jpg"><img src="./images/Space_shuttleSmall.jpg" alt="" /></a>
-					</div>
-					<div class="news_block_words">
-						<h3 id="news_title1">
-							Insert title here
-						</h3>
-						<p id="news_descrip1">
-							Insert description here
-						</p>
-					</div>
+					<h2><a href="./News/News.html"> Recent News </a></h2>
 				</div>
 				<div class="news_block" id="news2">
 					<div class="news_block_imgs">
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Small.jpg" alt="" /></a>
+						<a class="fancybox" rel="group" href="./images/Old_website.png"><img src="./images/Old_websiteSmall.png" alt="" /></a>
+						<p class="caption">Our old homepage.</p>
 					</div>
 					<div class="news_block_words">
-						<h3 id="news_title2">
-							Insert title here
+						<h3 class="news_title" id="news_title2">
+							New website!
 						</h3>
+						<h5 class="news_date">
+							April 26, 2013
+						</h5>
 						<p id="news_descrip2">
-							Insert description here
+							We are pleased to announce a brand new website custom designed to help publicize our research, improve our recruting efforts, and increase group cohesion. Our very own Travis Hairfield spent over four months building the new site from the ground up. As the website is so new, there may be bugs left in it. If you find one, help us out and send a quick message at the "Feedback" link at the bottom of the page.
 						</p>
 					</div>
 				</div>
 			</div>
 			<div id="papers" class="stuff">
 				<div class="stuff_title">
-					<h2><a href="http://research.physics.unc.edu/project/rln/Research%20projects.html"> Recent Publications </a></h2>
+					<h2><a href="./Research/Past_publications.html"> Recent Publications </a></h2>
 				</div>
 				<ul>
-					<li>
-						Suh, Jae Yong, et al.  Journal of applied physics 96 (2004): 1209.
+					<li class='citation'>
+						Liu, Yingchi, Kirsch, Christoph, Gadisa, Abay, Aryal, Mukti, Mitran, Sorin, Samulski, Edward T, Lopez, Rene. 
+						<i> Effects of nano-patterned versus simple flat active layers in upright organic photovoltaic devices</i>. 
+						Journal of Physics D: Applied Physics 46, 024008, (2013).
+					</li> 
 
-						<a href="http://jap.aip.org/resource/1/japiau/v96/i2/p1209_s1"> "Semiconductor to metal phase transition in the nucleation and growth of VO nanoparticles and thin films."</a>
-					</li>
-					<li>
-						Kristen D. Alexander, Shunping Zhang,Angela High-Walker, Hongxing Xu, and Rene Lopez. "An Investigation of the Relationship Between Length and SERS Enhancement Strength in Metal Nanoparticle Chains" accepted in the  Journal of Nanotechnology
-					</li>
-					<li>
-						John R. Tumbleston, Yingchi Liu, Edward T. Samulski, and Rene Lopez "Interplay Between Bimolecular Recombination and Carrier Transport Distances in Bulk Heterojunction Organic Solar". Accepted in Advance Solar Materials
-					</li>
-					<li>
-						B. Wu, A. Zimmers, H. Aubin, R. Ghosh, Y. Liu and R. Lopez. "Electric-field-driven phase transition in vanadium dioxide", PRB rapid communications 84, 241410-1/241410-4, (2011).
-					</li>
+					<li class='citation'>
+						Ok, Myoung-Ryul, Ghosh, Rudresh, Brennaman, M Kyle, Lopez, Rene, Meyer, Thomas J, Samulski, Edward T. 
+						<i> Surface patterning of mesoporous niobium oxide films for solar energy conversion.</i>. 
+						ACS applied materials \& interfaces 5, 3469-74, (2013).
+					</li> 
+
+					<li class='citation'>
+						Lundgren, Christin, Lopez, Rene, Redwing, Joan, Melde, Kathleen. 
+						<i> FDTD modeling of solar energy absorption in silicon branched nanowires</i>. 
+						Optics Express 21, A392, (2013).
+					</li> 
+
+					<li class='citation'>
+						Alibabaei, Leila, Luo, Hanlin, House, Ralph L., Hoertz, Paul G., Lopez, Rene, Meyer, Thomas J.. 
+						<i> Applications of metal oxide materials in dye sensitized photoelectrosynthesis cells for making solar fuels: let the molecules do the work</i>. 
+						Journal of Materials Chemistry A 1, 4133, (2013).
+					</li> 
 				</ul>
 			</div>
 		</div>
