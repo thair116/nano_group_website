@@ -16,9 +16,12 @@ html {
 
 }
 body {
-	background-color:#333;
-	background-attachment: fixed;
-	background-size: cover;
+	/*background-image: url("./binding_dark/binding_dark.png");*/
+	background-image: url("./wild_oliva/wild_oliva.png");
+	/*background-color:#111;*/
+	/*background-attachment: fixed;*/
+	/*background-size: cover;*/
+	background-position: left top;
 	height:100%;
 	width: 1000px;
 	font-family: 'Roboto', sans-serif;
@@ -32,7 +35,12 @@ body {
 
 #main {
 
-	background-color: #eee;
+	background-color: #fff;
+	/*background-image: url("./satinweave/satinweave.png");/*
+	/*background-color:#111;*/
+	background-attachment: fixed;
+	/*background-size: cover;*/
+	background-position: left top;
 	width: inherit;
 	clear: both;
 	float: left;
@@ -44,8 +52,8 @@ body {
 #header {
 	/*position:fixed;*/
 	width: inherit;
-	height: 110px;
-	background: #eee;
+	height: 150px;
+	background: #fff;
 	z-index: 999;
 	border-top-left-radius:10px;
 	border-top-right-radius: 10px;
@@ -75,10 +83,6 @@ body {
 	line-height: 2px;
 }
 
-.access_filler{
-	height: 40px;
-	width:1000px;
-}
 .access {
 	display: block;
 	background: #56A0D3;
@@ -159,7 +163,10 @@ body {
 
 	.menu-item:hover > a,
 	.div-sub_nav ul:hover > a {
-	background: #dedede;
+	
+	border-bottom: 4px solid #2370A0;
+	padding-bottom:0px;
+
 }
 .selected_tab{
 	background:#dedede;
@@ -212,7 +219,9 @@ body {
 
 
 .research_block,
-.bio_block{
+.bio_block,
+.news_block,
+.generic_block{
 	margin-top:10px;
 	margin-bottom:20px;
 	overflow:hidden;
@@ -226,12 +235,6 @@ body {
 	width:inherit;
 }
 
-.news_block{
-	margin-top:10px;
-	margin-bottom:20px;
-	overflow:hidden;
-}
-
 .news_block_imgs,
 .bio_block_img{
 	float:right;
@@ -239,9 +242,23 @@ body {
 }
 
 .news_block_words,
-.bio_block_words{
-	width:400px;
+.bio_block_words,
+.generic_block_words{
+	width:500px;
 	float:left;
+}
+
+.news_title{
+	margin-bottom:0;
+}
+.news_date{
+	margin-top:0;
+	margin-bottom:0;
+}
+
+.caption{
+	margin-top:0;
+	margin-left:14px;
 }
 
 .stuff_title{
@@ -263,17 +280,28 @@ body {
 	float:right;
 	width:300px;
 }
+.Alumni_thesis{
+	float:left;
+	width:300px;
+	/*position:relative;
+	top:-50px;*/
+}
 .bio_contact{
 	width:400px;
 	float:left;
 }
-
+.contact-CV_container a{
+	color: -webkit-link;
+}
+.citation a{
+	color: -webkit-link;
+}
 /******* Footer *******/
 footer {
 	width: 980px;
 	height: 100px;
 	overflow: hidden;
-	background-color: #eee;
+	background-color: #fff;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
 	padding-left:10px;
