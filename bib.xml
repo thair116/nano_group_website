@@ -1,0 +1,1483 @@
+  <?xml version="1.0" encoding="US-ASCII"?>
+<file xmlns="http://bibtexml.sf.net/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:date>2013-04-26T12:18:22-0400</dc:date>
+    <dc:format>text/xml</dc:format>
+    <dc:identifier>urn:uuid:fed5da8d-4beb-4639-a53e-4854f6b8046e</dc:identifier>
+  </metadata>
+  <entry id="liu2013">
+    <article>
+      <author>Liu, Yingchi</author>
+      <author>Kirsch, Christoph</author>
+      <author>Gadisa, Abay</author>
+      <author>Aryal, Mukti</author>
+      <author>Mitran, Sorin</author>
+      <author>Samulski, Edward T</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1088/0022-3727/46/2/024008</doi>
+      <issn>0022-3727</issn>
+      <journal>Journal of Physics D: Applied Physics</journal>
+      <month>January</month>
+      <number>2</number>
+      <pages>024008</pages>
+      <title>{Effects of nano-patterned versus simple flat active layers in upright organic photovoltaic devices}</title>
+      <url>http://stacks.iop.org/0022-3727/46/i=2/a=024008?key=crossref.9361556c24ababd738c701c3edc808ee</url>
+      <volume>46</volume>
+      <year>2013</year>
+    </article>
+  </entry>
+  <entry id="ok2013">
+    <article>
+      <abstract>An array of periodic surface features were patterned on mesoporous niobium oxide films by a soft-lithographic technique with the goal of constructing a photonic crystal (PC) structure on the back side of the oxide. The oxide films, fabricated by mixing sol-gel derived niobium oxide nanoparticles and hydroxypropyl cellulose, were employed as photoelectrodes in dye-sensitized solar cells (DSSCs), and their performance evaluated against their flat counterparts. The surface patterns were imprinted using a photocurable perfluoropolyether (PFPE) soft-replica of a silicon master with a two-dimensional array of cylindrical posts (200 nm (D) &#xfffd;&#xfffd; 200 nm (H)) in hexagonal geometry. The PC on the niobium oxide surface caused large changes in optical measurements, particularly in the blue wavelengths. To evaluate the optical effect on solar energy conversion, the incident photon-to-current conversion efficiency (IPCE) was measured in the patterned devices and the control group. The IPCE of patterned niobium oxide anodes exhibited a relative enhancement in photocurrent generation over the wavelength range corresponding to the higher absorption in optical measurements.</abstract>
+      <author>Ok, Myoung-Ryul</author>
+      <author>Ghosh, Rudresh</author>
+      <author>Brennaman, M Kyle</author>
+      <author>Lopez, Rene</author>
+      <author>Meyer, Thomas J</author>
+      <author>Samulski, Edward T</author>
+      <doi>10.1021/am400598u</doi>
+      <issn>1944-8252</issn>
+      <journal>ACS applied materials \&amp; interfaces</journal>
+      <month>April</month>
+      <number>8</number>
+      <pages>3469-74</pages>
+      <pmid>23534849</pmid>
+      <publisher>American Chemical Society</publisher>
+      <title>{Surface patterning of mesoporous niobium oxide films for solar energy conversion.}</title>
+      <url>http://dx.doi.org/10.1021/am400598u</url>
+      <volume>5</volume>
+      <year>2013</year>
+    </article>
+  </entry>
+  <entry id="lundgren2013">
+    <article>
+      <abstract>Thin film nanostructured photovoltaic cells are increasing in efficiency and decreasing the cost of solar energy. FDTD modeling of branched nanowire 'forests' are shown to have improved optical absorption in the visible and near-IR spectra over nanowire arrays alone, with a factor of 5 enhancement available at 1000 nm. Alternate BNW tree configurations are presented, achieving a maximum absorption of over 95\% at 500 nm.</abstract>
+      <author>Lundgren, Christin</author>
+      <author>Lopez, Rene</author>
+      <author>Redwing, Joan</author>
+      <author>Melde, Kathleen</author>
+      <doi>10.1364/OE.21.00A392</doi>
+      <issn>1094-4087</issn>
+      <journal>Optics Express</journal>
+      <keywords>Mathematical methods in physics</keywords>
+      <keywords>Numerical approximation and analysis</keywords>
+      <keywords>Solar energy</keywords>
+      <month>April</month>
+      <number>S3</number>
+      <pages>A392</pages>
+      <publisher>OSA</publisher>
+      <shorttitle>Opt. Express</shorttitle>
+      <title>{FDTD modeling of solar energy absorption in silicon branched nanowires}</title>
+      <url>http://www.opticsexpress.org/abstract.cfm?URI=oe-21-103-A392</url>
+      <volume>21</volume>
+      <year>2013</year>
+    </article>
+  </entry>
+  <entry id="alibabaei2013">
+    <article>
+      <author>Alibabaei, Leila</author>
+      <author>Luo, Hanlin</author>
+      <author>House, Ralph L.</author>
+      <author>Hoertz, Paul G.</author>
+      <author>Lopez, Rene</author>
+      <author>Meyer, Thomas J.</author>
+      <doi>10.1039/c2ta00935h</doi>
+      <issn>2050-7488</issn>
+      <journal>Journal of Materials Chemistry A</journal>
+      <language>en</language>
+      <month>March</month>
+      <number>13</number>
+      <pages>4133</pages>
+      <publisher>The Royal Society of Chemistry</publisher>
+      <title>{Applications of metal oxide materials in dye sensitized photoelectrosynthesis cells for making solar fuels: let the molecules do the work}</title>
+      <url>http://pubs.rsc.org/en/content/articlehtml/2013/ta/c2ta00935h</url>
+      <volume>1</volume>
+      <year>2013</year>
+    </article>
+  </entry>
+  <entry id="brosnan2012">
+    <article>
+      <author>Brosnan, D.</author>
+      <author>Ghosh, R.</author>
+      <author>McNeil, L.E.</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1016/j.solener.2012.05.002</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/1-s2.0-S0038092X12001715-main.pdf:pdf</file>
+      <issn>0038092X</issn>
+      <journal>Solar Energy</journal>
+      <keywords>chemical treatment</keywords>
+      <keywords>dye-sensitized solar cells</keywords>
+      <keywords>polymer electrolyte</keywords>
+      <keywords>tio 2</keywords>
+      <keywords>titanate nanotubes</keywords>
+      <month>May</month>
+      <publisher>Elsevier Ltd</publisher>
+      <title>{Influence of ionic pretreatment on the performance of solid electrolyte dye-sensitized solar cells}</title>
+      <url>http://linkinghub.elsevier.com/retrieve/pii/S0038092X12001715</url>
+      <year>2012</year>
+    </article>
+  </entry>
+  <entry id="ghosh2012">
+    <article>
+      <abstract>Laser ablation is employed to produce vertically aligned nanostructured films of undoped and tantalum-doped TiO(2) nanoparticles. Dye-sensitized solar cells using the two different materials are compared. Tantalum-doped TiO(2) photoanode show 65\% increase in photocurrents and around 39\% improvement in overall cell efficiency compared to undoped TiO(2). Electrochemical impedance spectroscopy, Mott-Schottky analysis and open circuit voltage decay is used to investigate the cause of this improved performance. The enhanced performance is attributed to a combination of increased electron concentration in the semiconductor and a reduced electron recombination rate.</abstract>
+      <author>Ghosh, Rudresh</author>
+      <author>Hara, Yukihiro</author>
+      <author>Alibabaei, Leila</author>
+      <author>Hanson, Kenneth</author>
+      <author>Rangan, Sylvie</author>
+      <author>Bartynski, Robert</author>
+      <author>Meyer, Thomas J</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1021/am300938g</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/rudy paper.pdf:pdf</file>
+      <issn>1944-8252</issn>
+      <journal>ACS applied materials \&amp; interfaces</journal>
+      <keywords>Coloring Agents</keywords>
+      <keywords>Coloring Agents: chemistry</keywords>
+      <keywords>Dielectric Spectroscopy</keywords>
+      <keywords>Electric Power Supplies</keywords>
+      <keywords>Lasers</keywords>
+      <keywords>Metal Nanoparticles</keywords>
+      <keywords>Metal Nanoparticles: chemistry</keywords>
+      <keywords>Solar Energy</keywords>
+      <keywords>Tantalum</keywords>
+      <keywords>Tantalum: chemistry</keywords>
+      <keywords>Titanium</keywords>
+      <keywords>Titanium: chemistry</keywords>
+      <month>September</month>
+      <number>9</number>
+      <pages>4566-70</pages>
+      <pmid>22869506</pmid>
+      <title>{Increasing photocurrents in dye sensitized solar cells with tantalum-doped titanium oxide photoanodes obtained by laser ablation.}</title>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/22869506</url>
+      <volume>4</volume>
+      <year>2012</year>
+    </article>
+  </entry>
+  <entry id="gadisa2012">
+    <article>
+      <author>Gadisa, Abay</author>
+      <author>Tumbleston, John R.</author>
+      <author>Ko, Doo-Hyun</author>
+      <author>Aryal, Mukti</author>
+      <author>Lopez, Rene</author>
+      <author>Samulski, Edward T.</author>
+      <doi>10.1016/j.tsf.2012.03.117</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/1-s2.0-S0040609012004087-main.pdf:pdf</file>
+      <issn>00406090</issn>
+      <journal>Thin Solid Films</journal>
+      <keywords>Interdiffusion</keywords>
+      <keywords>Miscibility</keywords>
+      <keywords>Morphology</keywords>
+      <keywords>P3HT/PCBM bilayer</keywords>
+      <keywords>Photovoltaic</keywords>
+      <keywords>Poly(3-hexylthiophene)</keywords>
+      <month>April</month>
+      <publisher>Elsevier B.V.</publisher>
+      <title>{The role of solvent and morphology on miscibility of methanofullerene and poly(3-hexylthiophene)}</title>
+      <url>http://linkinghub.elsevier.com/retrieve/pii/S0040609012004087</url>
+      <year>2012</year>
+    </article>
+  </entry>
+  <entry id="tumbleston2012">
+    <article>
+      <author>Tumbleston, John R.</author>
+      <author>Liu, Yingchi</author>
+      <author>Samulski, Edward T.</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1002/aenm.201100677</doi>
+      <issn>16146832</issn>
+      <journal>Advanced Energy Materials</journal>
+      <month>April</month>
+      <number>4</number>
+      <pages>477-486</pages>
+      <title>{Interplay between Bimolecular Recombination and Carrier Transport Distances in Bulk Heterojunction Organic Solar Cells}</title>
+      <url>http://doi.wiley.com/10.1002/aenm.201100677</url>
+      <volume>2</volume>
+      <year>2012</year>
+    </article>
+  </entry>
+  <entry id="gadisa2012a">
+    <article>
+      <abstract>We have investigated the photovoltaic properties of inverted solar cells comprising a bulk heterojunction film of poly(3-hexylthiophene) and phenyl-C(61)-butyric acid methyl ester, sandwiched between an indium-tin-oxide/Al-doped zinc oxide (ZnO-Al) front, and tungsten oxide/aluminum back electrodes. The inverted solar cells convert photons to electrons at an external quantum efficiency (EQE) exceeding 70\%. This is a 10-15\% increase over EQEs of conventional solar cells. The increase in EQE is not fully explained by the difference in the optical transparency of electrodes, interference effects due to an optical spacer effect of the metal-oxide electrode buffer layers, or variation in charge generation profile. We propose that a large additional splitting of excited states at the ZnO-Al/polymer interface leads to the considerably large photocurrent yield in inverted cells. Our finding provides new insights into the benefits of n-type metal-oxide interlayers in bulk heterojunction solar cells, namely the splitting of excited states and conduction of free electrons simultaneously.</abstract>
+      <author>Gadisa, Abay</author>
+      <author>Liu, Yingchi</author>
+      <author>Samulski, Edward T</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1021/am300549v</doi>
+      <issn>1944-8252</issn>
+      <journal>ACS applied materials \&amp; interfaces</journal>
+      <month>August</month>
+      <number>8</number>
+      <pages>3846-51</pages>
+      <pmid>22834558</pmid>
+      <publisher>American Chemical Society</publisher>
+      <title>{Role of thin n-type metal-oxide interlayers in inverted organic solar cells.}</title>
+      <url>http://dx.doi.org/10.1021/am300549v</url>
+      <volume>4</volume>
+      <year>2012</year>
+    </article>
+  </entry>
+  <entry id="alexander2012">
+    <article>
+      <author>Alexander, Kristen D.</author>
+      <author>Zhang, Shunping</author>
+      <author>{Hight Walker}, Angela R.</author>
+      <author>Xu, Hongxing</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1155/2012/840245</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/840245\_round\_1.pdf:pdf</file>
+      <issn>1687-9503</issn>
+      <journal>Journal of Nanotechnology</journal>
+      <pages>1-7</pages>
+      <title>{Relationship between Length and Surface-Enhanced Raman Spectroscopy Signal Strength in Metal Nanoparticle Chains: Ideal Models versus Nanofabrication}</title>
+      <url>http://www.hindawi.com/journals/jnt/2012/840245/</url>
+      <volume>2012</volume>
+      <year>2012</year>
+    </article>
+  </entry>
+  <entry id="gadisa2012b">
+    <article>
+      <author>Gadisa, Abay</author>
+      <author>Liu, Yingchi</author>
+      <author>Samulski, Edward T.</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1063/1.4729861</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/Proof-1.pdf:pdf</file>
+      <issn>00036951</issn>
+      <journal>Applied Physics Letters</journal>
+      <number>25</number>
+      <pages>253903</pages>
+      <title>{Minimizing interfacial losses in inverted organic solar cells comprising Al-doped ZnO}</title>
+      <url>http://link.aip.org/link/APPLAB/v100/i25/p253903/s1\&amp;Agg=doi</url>
+      <volume>100</volume>
+      <year>2012</year>
+    </article>
+  </entry>
+  <entry id="aryal2012">
+    <article>
+      <author>Aryal, Mukti</author>
+      <author>Ko, Doo-Hyun</author>
+      <author>Tumbleston, John R.</author>
+      <author>Gadisa, Abay</author>
+      <author>Samulski, Edward T.</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1116/1.4759461</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/JVB061802.pdf:pdf</file>
+      <issn>21662746</issn>
+      <journal>Journal of Vacuum Science \&amp; Technology B: Microelectronics and Nanometer Structures</journal>
+      <keywords>biomimetics</keywords>
+      <keywords>chemical vapour deposition</keywords>
+      <keywords>focused ion beam technology</keywords>
+      <keywords>nanofabrication</keywords>
+      <keywords>nanolithography</keywords>
+      <keywords>polymers</keywords>
+      <keywords>reflectivity</keywords>
+      <keywords>replica techniques</keywords>
+      <keywords>sputter etching</keywords>
+      <keywords>ultraviolet lithography</keywords>
+      <language>en</language>
+      <month>October</month>
+      <number>6</number>
+      <pages>061802-061802-7</pages>
+      <title>{Large area nanofabrication of butterfly wing's three dimensional ultrastructures}</title>
+      <url>http://link.aip.org/link/?JVTBD9/30/061802/1</url>
+      <volume>30</volume>
+      <year>2012</year>
+    </article>
+  </entry>
+  <entry id="hanson2012">
+    <article>
+      <abstract>The performance of dye-sensitized solar and photoelectrochemical cells is strongly dependent on the light absorption and electron transfer events at the semiconductor?small molecule interface. These processes as well as photo/electrochemical stability are dictated not only by the properties of the chromophore and metal oxide but also by the structure of the dye molecule, the number of surface binding groups, and their mode of binding to the surface. In this article, we report the photophysical and electrochemical properties of a series of six phosphonate-derivatized [Ru(bpy)3]2+ complexes in aqueous solution and bound to ZrO2 and TiO2 surfaces. A decrease in injection yield and cross surface electron-transfer rate with increased number of diphosphonated ligands was observed. Additional phosphonate groups for surface binding did impart increased electrochemical and photostability. All complexes exhibit similar back-electron-transfer kinetics, suggesting an electron-transfer process rate-limited by electron transport through the interior of TiO2 to the interface. With all results considered, the ruthenium polypyridyl derivatives with one or two 4,4?-(PO3H2)2bpy ligands provide the best balance of electron injection efficiency and stability for application in solar energy conversion devices. The performance of dye-sensitized solar and photoelectrochemical cells is strongly dependent on the light absorption and electron transfer events at the semiconductor?small molecule interface. These processes as well as photo/electrochemical stability are dictated not only by the properties of the chromophore and metal oxide but also by the structure of the dye molecule, the number of surface binding groups, and their mode of binding to the surface. In this article, we report the photophysical and electrochemical properties of a series of six phosphonate-derivatized [Ru(bpy)3]2+ complexes in aqueous solution and bound to ZrO2 and TiO2 surfaces. A decrease in injection yield and cross surface electron-transfer rate with increased number of diphosphonated ligands was observed. Additional phosphonate groups for surface binding did impart increased electrochemical and photostability. All complexes exhibit similar back-electron-transfer kinetics, suggesting an electron-transfer process rate-limited by electron transport through the interior of TiO2 to the interface. With all results considered, the ruthenium polypyridyl derivatives with one or two 4,4?-(PO3H2)2bpy ligands provide the best balance of electron injection efficiency and stability for application in solar energy conversion devices.</abstract>
+      <author>Hanson, Kenneth</author>
+      <author>Brennaman, M. Kyle</author>
+      <author>Ito, Akitaka</author>
+      <author>Luo, Hanlin</author>
+      <author>Song, Wenjing</author>
+      <author>Parker, Kelsey A.</author>
+      <author>Ghosh, Rudresh</author>
+      <author>Norris, Michael R.</author>
+      <author>Glasson, Christopher R. K.</author>
+      <author>Concepcion, Javier J.</author>
+      <author>Lopez, Rene</author>
+      <author>Meyer, Thomas J.</author>
+      <doi>10.1021/jp304088d</doi>
+      <issn>1932-7447</issn>
+      <journal>The Journal of Physical Chemistry C</journal>
+      <month>July</month>
+      <number>28</number>
+      <pages>14837-14847</pages>
+      <publisher>American Chemical Society</publisher>
+      <title>{Structure&#xfffd;&#xfffd;&#xfffd;Property Relationships in Phosphonate-Derivatized, Ru II Polypyridyl Dyes on Metal Oxide Surfaces in an Aqueous Environment}</title>
+      <url>http://dx.doi.org/10.1021/jp304088d</url>
+      <volume>116</volume>
+      <year>2012</year>
+    </article>
+  </entry>
+  <entry id="ko2011">
+    <article>
+      <abstract>We describe a 2-D photonic crystal (PC) geometry that enhances the absorption of light for organic photovoltaic (OPV) cells relative to conventional planar cells. The PC geometry is developed by patterning an organic photoactive bulk heterojunction blend of P3HT (poly(3-hexylthiophene)) and PCBM (phenyl-C61-butyric acid methyl ester) via PRINT (pattern replication in nonwetting templates), a method that lends itself to large area fabrication of nanoscale features. Replication flexibility for various patterns and ranges of materials emphasizes the utility of PRINT for both inverted and standard OPV architectures. The optical properties of PC cells for different device architectures are investigated theoretically and experimentally in order to determine critical physical dimensions that influence device performance.</abstract>
+      <author>Ko, Doo-Hyun</author>
+      <author>Tumbleston, John R.</author>
+      <author>Schenck, Walter</author>
+      <author>Lopez, Rene</author>
+      <author>Samulski, Edward T.</author>
+      <doi>10.1021/jp1112087</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/jp1112087.pdf:pdf</file>
+      <issn>1932-7447</issn>
+      <journal>The Journal of Physical Chemistry C</journal>
+      <keywords>GRATINGS</keywords>
+      <keywords>LIGHT</keywords>
+      <keywords>MORPHOLOGY</keywords>
+      <keywords>OXIDE</keywords>
+      <keywords>POLYMER PHOTOVOLTAIC CELLS</keywords>
+      <month>March</month>
+      <number>10</number>
+      <pages>4247-4254</pages>
+      <publisher>AMER CHEMICAL SOC</publisher>
+      <title>{Photonic Crystal Geometry for Organic Polymer:Fullerene Standard and Inverted Solar Cells}</title>
+      <url>http://apps.isiknowledge.com/full\_record.do?product=WOS\&amp;search\_mode=GeneralSearch\&amp;qid=19\&amp;SID=3C2Kd2hL9MkOfgKIKAG\&amp;page=1\&amp;doc=5</url>
+      <volume>115</volume>
+      <year>2011</year>
+    </article>
+  </entry>
+  <entry id="ko2011a">
+    <article>
+      <author>Ko, Doo-Hyun</author>
+      <author>Tumbleston, John R.</author>
+      <author>Henderson, Kevin J.</author>
+      <author>Euliss, Larken E.</author>
+      <author>DeSimone, Joseph M.</author>
+      <author>Lopez, Rene</author>
+      <author>Samulski, Edward T.</author>
+      <doi>10.1039/c1sm05302g</doi>
+      <issn>1744-683X</issn>
+      <journal>Soft Matter</journal>
+      <pages>10-13</pages>
+      <title>{Biomimetic microlens array with antireflective &#xfffd;&#xfffd;&#xfffd;moth-eye&#xfffd;&#xfffd;&#xfffd; surface}</title>
+      <url>http://xlink.rsc.org/?DOI=c1sm05302g</url>
+      <year>2011</year>
+    </article>
+  </entry>
+  <entry id="ko2011b">
+    <article>
+      <author>Ko, Doo-Hyun</author>
+      <author>Tumbleston, John R.</author>
+      <author>Gadisa, Abay</author>
+      <author>Aryal, Mukti</author>
+      <author>Lopez, Rene</author>
+      <author>Samulski, Edward T.</author>
+      <doi>10.1039/c1jm12300a</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/FINAL PRINTS/DH-Ko\_Journal of Materials Chemistry 2011.pdf:pdf</file>
+      <issn>0959-9428</issn>
+      <journal>Journal of Materials Chemistry</journal>
+      <title>{Light-trapping nano-structures in organic photovoltaic cells}</title>
+      <url>http://xlink.rsc.org/?DOI=c1jm12300a</url>
+      <year>2011</year>
+    </article>
+  </entry>
+  <entry id="liu2011">
+    <article>
+      <author>Liu, Yingchi</author>
+      <author>Turley, Hubert K.</author>
+      <author>Tumbleston, John R.</author>
+      <author>Samulski, Edward T.</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1063/1.3579259</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/ApplPhysLett\_98\_162105.pdf:pdf</file>
+      <issn>00036951</issn>
+      <journal>Applied Physics Letters</journal>
+      <number>16</number>
+      <pages>162105</pages>
+      <title>{Minority carrier transport length of electrodeposited Cu2O in ZnO/Cu2O heterojunction solar cells}</title>
+      <url>http://link.aip.org/link/APPLAB/v98/i16/p162105/s1\&amp;Agg=doi</url>
+      <volume>98</volume>
+      <year>2011</year>
+    </article>
+  </entry>
+  <entry id="ghosh2011">
+    <inproceedings>
+      <author>Ghosh, Rudresh</author>
+      <author>Brennaman, M. Kyle</author>
+      <author>Concepcion, Javier J.</author>
+      <author>Hanson, Kenneth</author>
+      <author>Kumbhar, Amar S.</author>
+      <author>Meyer, Thomas J.</author>
+      <author>Lopez, Ren&#xe9;</author>
+      <booktitle>SPIE Solar Energy + Technology</booktitle>
+      <doi>10.1117/12.893073</doi>
+      <editor>Tachibana, Yasuhiro</editor>
+      <file>:C$\backslash$:/Users/Yo/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ghosh et al. - 2011 - Efficient high surface area vertically aligned metal oxide nanostructures for dye-sensitized photoanodes by pulsed laser deposition.pdf:pdf</file>
+      <month>September</month>
+      <pages>81090U-81090U-6</pages>
+      <publisher>International Society for Optics and Photonics</publisher>
+      <title>{Efficient high surface area vertically aligned metal oxide nanostructures for dye-sensitized photoanodes by pulsed laser deposition}</title>
+      <url>http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1272874</url>
+      <year>2011</year>
+    </inproceedings>
+  </entry>
+  <entry id="pashkin2011">
+    <article>
+      <abstract>The ultrafast photoinduced insulator-metal transition in VO2 is studied at different temperatures and excitation fluences using multi-THz probe pulses. The spectrally resolved midinfrared response allows us to trace separately the dynamics of lattice and electronic degrees of freedom with a time resolution of 40 fs. The critical fluence of the optical pump pulse, which drives the system into a long-lived metallic state, is found to increase with decreasing temperature. Under all measurement conditions, we observe a modulation of the eigenfrequencies of the optical phonon modes induced by their anharmonic coupling to the coherent wave-packet motion of V-V dimers at 6.1 THz. Furthermore, we find a weak quadratic coupling of the electronic response to the coherent dimer oscillation resulting in a modulation of the electronic conductivity at twice the frequency of the wave-packet motion. The findings are discussed in the framework of a qualitative model based on an approximation of local photoexcitation of the vanadium dimers from the insulating state.</abstract>
+      <author>Pashkin, A.</author>
+      <author>K&#xfc;bler, C.</author>
+      <author>Ehrke, H.</author>
+      <author>Lopez, R.</author>
+      <author>Halabica, A.</author>
+      <author>Haglund, R. F.</author>
+      <author>Huber, R.</author>
+      <author>Leitenstorfer, A.</author>
+      <doi>10.1103/PhysRevB.83.195120</doi>
+      <issn>1098-0121</issn>
+      <journal>Physical Review B</journal>
+      <month>May</month>
+      <number>19</number>
+      <pages>195120</pages>
+      <publisher>American Physical Society</publisher>
+      <shorttitle>Phys. Rev. B</shorttitle>
+      <title>{Ultrafast insulator-metal phase transition in VO\_\{2\} studied by multiterahertz spectroscopy}</title>
+      <url>http://link.aps.org/doi/10.1103/PhysRevB.83.195120</url>
+      <volume>83</volume>
+      <year>2011</year>
+    </article>
+  </entry>
+  <entry id="ray2011">
+    <article>
+      <author>Ray, Emily</author>
+      <author>Lopez, Rene</author>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/JOSAB2011.pdf:pdf</file>
+      <journal>J. Optical Society of America B</journal>
+      <number>7</number>
+      <pages>1778-1781</pages>
+      <title>{Numerical design and scattering losses of a one-dimensional metallo &#xfffd;&#xfffd;&#xfffd; dielectric multilayer with broadband coupling of propagating waves to plasmon modes in the visible range}</title>
+      <volume>28</volume>
+      <year>2011</year>
+    </article>
+  </entry>
+  <entry id="ghosh2011a">
+    <article>
+      <abstract>Vertically aligned bundles of Nb(2)O(5) nanocrystals were fabricated by pulsed laser deposition (PLD) and tested as a photoanode material in dye-sensitized solar cells (DSSC). They were characterized using scanning and transmission electron microscopies, optical absorption spectroscopy (UV-vis), and incident-photon-to-current efficiency (IPCE) experiments. The background gas composition and the thickness of the films were varied to determine the influence of those parameters in the photoanode behavior. An optimal background pressure of oxygen during deposition was found to produce a photoanode structure that both achieves high dye loading and enhanced photoelectrochemical performance. For optimal structures, IPCE values up to 40\% and APCE values around 90\% were obtained with the N(3) dye and I(3)(-)/I(-) couple in acetonitrile with open circuit voltage of 0.71 V and 2.41\% power conversion efficiency.</abstract>
+      <author>Ghosh, Rudresh</author>
+      <author>Brennaman, M Kyle</author>
+      <author>Uher, Tim</author>
+      <author>Ok, Myoung-Ryul</author>
+      <author>Samulski, Edward T</author>
+      <author>McNeil, L E</author>
+      <author>Meyer, Thomas J</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1021/am200805x</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/am200805x.pdf:pdf</file>
+      <issn>1944-8252</issn>
+      <journal>ACS applied materials \&amp; interfaces</journal>
+      <keywords>dye -sensitized solar cell</keywords>
+      <keywords>ipce</keywords>
+      <keywords>niobium oxide</keywords>
+      <keywords>pulsed laser deposition</keywords>
+      <month>October</month>
+      <number>10</number>
+      <pages>3929-35</pages>
+      <pmid>21919494</pmid>
+      <title>{Nanoforest Nb2O5 photoanodes for dye-sensitized solar cells by pulsed laser deposition.}</title>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/21919494</url>
+      <volume>3</volume>
+      <year>2011</year>
+    </article>
+  </entry>
+  <entry id="wu2011">
+    <article>
+      <author>Wu, B.</author>
+      <author>Zimmers, a.</author>
+      <author>Aubin, H.</author>
+      <author>Ghosh, R.</author>
+      <author>Liu, Y.</author>
+      <author>Lopez, R.</author>
+      <doi>10.1103/PhysRevB.84.241410</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/VO2-2011.pdf:pdf</file>
+      <issn>1098-0121</issn>
+      <journal>Physical Review B</journal>
+      <month>December</month>
+      <number>24</number>
+      <pages>2-5</pages>
+      <title>{Electric-field-driven phase transition in vanadium dioxide}</title>
+      <url>http://link.aps.org/doi/10.1103/PhysRevB.84.241410</url>
+      <volume>84</volume>
+      <year>2011</year>
+    </article>
+  </entry>
+  <entry id="ko2010">
+    <article>
+      <author>Ko, Doo-Hyun</author>
+      <author>Tumbleston, John R.</author>
+      <author>Ok, Myoung-Ryul</author>
+      <author>Chun, Honggu</author>
+      <author>Lopez, Rene</author>
+      <author>Samulski, Edward</author>
+      <doi>10.1063/1.3488609</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/UV paper JAP.pdf:pdf</file>
+      <issn>00218979</issn>
+      <journal>Journal of Applied Physics</journal>
+      <number>8</number>
+      <pages>083101</pages>
+      <title>{Suppression of bimolecular recombination by UV-sensitive electron transport layers in organic solar cells}</title>
+      <url>http://link.aip.org/link/JAPIAU/v108/i8/p083101/s1\&amp;Agg=doi</url>
+      <volume>108</volume>
+      <year>2010</year>
+    </article>
+  </entry>
+  <entry id="alexander2010">
+    <article>
+      <author>Alexander, Kristen D.</author>
+      <author>Skinner, Kwan</author>
+      <author>Zhang, Shunping</author>
+      <author>Wei, Hong</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1021/nl1023172</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/KristenPaper2.pdf:pdf</file>
+      <issn>1530-6984</issn>
+      <journal>Nano Letters</journal>
+      <keywords>aao template</keywords>
+      <keywords>elastomer</keywords>
+      <keywords>electrodeposition</keywords>
+      <keywords>interparticle gap</keywords>
+      <keywords>nanorod</keywords>
+      <keywords>sers</keywords>
+      <month>October</month>
+      <pages>101005155324050</pages>
+      <title>{Tunable SERS in Gold Nanorod Dimers through Strain Control on an Elastomeric Substrate}</title>
+      <url>http://pubs.acs.org/doi/abs/10.1021/nl1023172</url>
+      <year>2010</year>
+    </article>
+  </entry>
+  <entry id="tumbleston2010">
+    <inproceedings>
+      <author>Tumbleston, John R.</author>
+      <author>Ko, Doo-Hyun</author>
+      <author>Samulski, Edward T.</author>
+      <author>Lopez, Rene</author>
+      <author>Oluseyi, Hakeem M.</author>
+      <booktitle>AIP Conference Proceedings</booktitle>
+      <doi>10.1063/1.3507192</doi>
+      <issn>0094243X</issn>
+      <keywords>excitons</keywords>
+      <keywords>optical properties</keywords>
+      <keywords>photonic band structure</keywords>
+      <keywords>solar cells</keywords>
+      <language>en</language>
+      <month>October</month>
+      <number>1</number>
+      <pages>121-129</pages>
+      <publisher>American Institute of Physics</publisher>
+      <title>{Electro-optical model of photonic crystal bulk heterojunction organic solar cells}</title>
+      <url>http://link.aip.org/link/?APCPCS/1280/121/1</url>
+      <volume>1280</volume>
+      <year>2010</year>
+    </inproceedings>
+  </entry>
+  <entry id="tumbleston2010a">
+    <article>
+      <author>Tumbleston, John R.</author>
+      <author>Ko, Doo-Hyun</author>
+      <author>Samulski, Edward T.</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1063/1.3494100</doi>
+      <issn>00218979</issn>
+      <journal>Journal of Applied Physics</journal>
+      <keywords>diffusion</keywords>
+      <keywords>equivalent circuits</keywords>
+      <keywords>light absorption</keywords>
+      <keywords>organic semiconductors</keywords>
+      <keywords>photoconductivity</keywords>
+      <keywords>photoemission</keywords>
+      <keywords>relaxation</keywords>
+      <keywords>short-circuit currents</keywords>
+      <keywords>solar cells</keywords>
+      <language>en</language>
+      <month>October</month>
+      <number>8</number>
+      <pages>084514</pages>
+      <title>{Nonideal parasitic resistance effects in bulk heterojunction organic solar cells}</title>
+      <url>http://link.aip.org/link/?JAPIAU/108/084514/1</url>
+      <volume>108</volume>
+      <year>2010</year>
+    </article>
+  </entry>
+  <entry id="tumbleston2010b">
+    <article>
+      <abstract>In this work, we determine the carrier-transport lengths of electrons and holes (L-e,L-h) for bulk heterojunction (BHJ) organic solar cells using a method applicable to functional devices. By linking the local exciton generation profile [G(x)] in the photoactive layer to photocurrent losses, we are able to determine the onset of bimolecular recombination, which is the dominate loss process of free carrier transport. Even though many factors affect photocurrent generation, we single out bimolecular recombination by measuring the scaling of photocurrent with light intensity as a function of applied voltage. For the common BHJ system, annealed poly-3-hexylthiophene:[6,6]-phenyl-C61-butyric acid methyl ester (P3HT:PCBM), a minimum for L-e in PCBM is found to be 340 nm while L-h is estimated to be 90 nm for P3HT. The relationship between G(x) and carrier transport is further exemplified by demonstrating a scaling exponent below that for traditional space-charge-limited photocurrent. Likewise, by incorporating a drift/diffusion model, an intuitive link between G(x) and charge transport is established where recombination is shown to occur in regions of the photoactive layer far from the electrode of the slowest carrier species. Finally, the consequences of L-e,L-h on device design for operation under 1 Sun conditions are described.</abstract>
+      <author>Tumbleston, John</author>
+      <author>Ko, Doo-Hyun</author>
+      <author>Samulski, Edward</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1103/PhysRevB.82.205325</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/PhysRevB.82.205325.pdf:pdf</file>
+      <issn>1098-0121</issn>
+      <journal>Physical Review B</journal>
+      <keywords>CHARGE-TRANSPORT</keywords>
+      <keywords>LIGHT-INTENSITY</keywords>
+      <keywords>PERFORMANCE</keywords>
+      <keywords>PHOTOCURRENT GENERATION</keywords>
+      <keywords>POLY(3-HEXYLTHIOPHENE)</keywords>
+      <month>November</month>
+      <number>20</number>
+      <pages>205325</pages>
+      <publisher>AMER PHYSICAL SOC</publisher>
+      <title>{Analyzing local exciton generation profiles as a means to extract transport lengths in organic solar cells}</title>
+      <url>http://apps.isiknowledge.com/full\_record.do?product=WOS\&amp;search\_mode=GeneralSearch\&amp;qid=17\&amp;SID=3C2Kd2hL9MkOfgKIKAG\&amp;page=1\&amp;doc=1</url>
+      <volume>82</volume>
+      <year>2010</year>
+    </article>
+  </entry>
+  <entry id="williams2010">
+    <article>
+      <abstract>Several perfluoropolyether (PFPE)-based elastomers for high-resolution replica molding applications are explored. The modulus of the elastomeric materials was increased through synthetic and additive approaches while maintaining relatively low surface tension values (&lt;25 mN/m). Using large area (&gt;4 in.(2)) master templates, we experimentally show the relationship between mold resolution and material properties such as modulus and surface tension for materials used in this study. A composite mold approach was used to form flexible molds out of stiff, high modulus materials that allow for replication of sub-20 nm post structures. Sub-100 nm line grating master templates, formed using e-beam lithography, were used to determine the experimental stability of the molding materials. It was observed that as the feature spacing decreased, high modulus PFPE tetramethacrylate (TMA) composite molds were able to effectively replicate the nanograting structures without cracking or tear-out defects that typically occur with high modulus elastomers.</abstract>
+      <author>Williams, Stuart S</author>
+      <author>Retterer, Scott</author>
+      <author>Lopez, Rene</author>
+      <author>Ruiz, Ricardo</author>
+      <author>Samulski, Edward T</author>
+      <author>DeSimone, Joseph M</author>
+      <doi>10.1021/nl100326q</doi>
+      <issn>1530-6992</issn>
+      <journal>Nano letters</journal>
+      <keywords>Ethers</keywords>
+      <keywords>Ethers: chemistry</keywords>
+      <keywords>Fluorocarbons</keywords>
+      <keywords>Fluorocarbons: chemistry</keywords>
+      <keywords>Molecular Structure</keywords>
+      <keywords>Nanostructures</keywords>
+      <keywords>Nanostructures: chemistry</keywords>
+      <keywords>Nanotechnology</keywords>
+      <keywords>Nanotechnology: instrumentation</keywords>
+      <keywords>Nanotechnology: methods</keywords>
+      <keywords>Particle Size</keywords>
+      <keywords>Surface Properties</keywords>
+      <month>April</month>
+      <number>4</number>
+      <pages>1421-8</pages>
+      <pmid>20178369</pmid>
+      <publisher>American Chemical Society</publisher>
+      <title>{High-resolution PFPE-based molding techniques for nanofabrication of high-pattern density, sub-20 nm features: a fundamental materials approach.}</title>
+      <url>http://dx.doi.org/10.1021/nl100326q</url>
+      <volume>10</volume>
+      <year>2010</year>
+    </article>
+  </entry>
+  <entry id="ghosh2010">
+    <article>
+      <author>Ghosh, R.</author>
+      <author>Baker, M.B.</author>
+      <author>Lopez, R.</author>
+      <doi>10.1016/j.tsf.2009.08.003</doi>
+      <issn>00406090</issn>
+      <journal>Thin Solid Films</journal>
+      <keywords>gasochromic property</keywords>
+      <keywords>pulsed laser deposition</keywords>
+      <month>February</month>
+      <number>8</number>
+      <pages>2247-2249</pages>
+      <publisher>Elsevier B.V.</publisher>
+      <title>{Optical properties and aging of gasochromic WO3}</title>
+      <url>http://linkinghub.elsevier.com/retrieve/pii/S0040609009013613</url>
+      <volume>518</volume>
+      <year>2010</year>
+    </article>
+  </entry>
+  <entry id="a.meldrum2010">
+    <incollection>
+      <address>Berlin, Heidelberg</address>
+      <author>Meldrum, A.</author>
+      <author>Lopez, R.</author>
+      <author>Magruder, R. H.</author>
+      <author>Boatner, L. A.</author>
+      <author>White, C. W.</author>
+      <booktitle>Materials Science with Ion Beams</booktitle>
+      <doi>10.1007/978-3-540-88789-8</doi>
+      <editor>Bernas, Harry</editor>
+      <isbn>978-3-540-88788-1</isbn>
+      <publisher>Springer Berlin Heidelberg</publisher>
+      <series>Topics in Applied Physics</series>
+      <title>{Structure and Properties of Nanoparticles Formed by Ion Implantation}</title>
+      <url>http://www.springerlink.com/index/10.1007/978-3-540-88789-8</url>
+      <volume>116</volume>
+      <year>2010</year>
+    </incollection>
+  </entry>
+  <entry id="ray2009">
+    <article>
+      <abstract>We demonstrate the fabrication of a simple metamaterial-diffraction grating device that both amplifies and converts evanescent waves into propagating ones. This is the most accessible example of such phenomena reported until now (to our knowledge), as it requires few thin film layers, operates in the visible, and can be probed with traditional optics. The metamaterial exhibits amplification of evanescent waves generated from total internal reflection. The device was fabricated over 1 cm2 using pulsed-laser deposition and a pattern-replication technique.</abstract>
+      <author>Ray, Emily a</author>
+      <author>Hampton, Meredith J</author>
+      <author>Lopez, Rene</author>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/Emily paper 1.pdf:pdf</file>
+      <issn>0146-9592</issn>
+      <journal>Optics letters</journal>
+      <month>July</month>
+      <number>13</number>
+      <pages>2048-50</pages>
+      <pmid>19571995</pmid>
+      <title>{Simple demonstration of visible evanescent-wave enhancement with far-field detection.}</title>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/19571995</url>
+      <volume>34</volume>
+      <year>2009</year>
+    </article>
+  </entry>
+  <entry id="leitenstorfer2009">
+    <article>
+      <author>Leitenstorfer, a.</author>
+      <author>K&#xfc;bler, C.</author>
+      <author>Lopez, R.</author>
+      <author>Halabica, a.</author>
+      <author>Haglund, R. F.</author>
+      <author>Huber, R.</author>
+      <doi>10.1002/pssc.200879860</doi>
+      <issn>16101634</issn>
+      <journal>Physica Status Solidi (C)</journal>
+      <month>January</month>
+      <number>1</number>
+      <pages>149-151</pages>
+      <title>{Ultrafast insulator-metal transition in VO 2 : interplay between coherent lattice motion and electronic correlations}</title>
+      <url>http://doi.wiley.com/10.1002/pssc.200879860</url>
+      <volume>6</volume>
+      <year>2009</year>
+    </article>
+  </entry>
+  <entry id="donev2009">
+    <article>
+      <abstract>We present the first Raman scattering measurements on nanoparticulate vanadium dioxide (VO(2)), as well as the first observations of the temperature-induced phase transition in individual VO(2) nanoparticles (NPs). We compare the Raman response of two VO(2) NPs and a companion VO(2) film undergoing their monoclinic-tetragonal-monoclinic transformations and offer qualitative explanations for the large observed differences in hysteresis width. While bulk crystals and contiguous films contain numerous nucleation sites, individual NPs likely harbor only a few, which may make it possible to correlate detectable defects (e.g., grain boundaries and dislocations) with the "ease" of switching phases, as quantified by the width of the thermal hysteresis.</abstract>
+      <author>Donev, Eugenii U</author>
+      <author>Lopez, Rene</author>
+      <author>Feldman, Leonard C</author>
+      <author>Haglund, Richard F</author>
+      <doi>10.1021/nl8031839</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/nl8031839.pdf:pdf</file>
+      <issn>1530-6984</issn>
+      <journal>Nano letters</journal>
+      <month>February</month>
+      <number>2</number>
+      <pages>702-6</pages>
+      <pmid>19199760</pmid>
+      <title>{Confocal Raman microscopy across the metal-insulator transition of single vanadium dioxide nanoparticles.}</title>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/19199760</url>
+      <volume>9</volume>
+      <year>2009</year>
+    </article>
+  </entry>
+  <entry id="ko2009">
+    <article>
+      <abstract>We report organic solar cells with a photonic crystal nanostructure embossed in the photoactive bulk heterojunction layer, a topography that exhibits a 3-fold enhancement of the absorption in specific regions of the solar spectrum in part through multiple excitation resonances. The photonic crystal geometry is fabricated using a materials-agnostic process called PRINT wherein highly ordered arrays of nanoscale features are readily made in a single processing step over wide areas (approximately 4 cm(2)) that is scalable. We show efficiency improvements of approximately 70\% that result not only from greater absorption, but also from electrical enhancements. The methodology is generally applicable to organic solar cells and the experimental findings reported in our manuscript corroborate theoretical expectations.</abstract>
+      <author>Ko, Doo-Hyun</author>
+      <author>Tumbleston, John R</author>
+      <author>Zhang, Lei</author>
+      <author>Williams, Stuart</author>
+      <author>DeSimone, Joseph M</author>
+      <author>Lopez, Rene</author>
+      <author>Samulski, Edward T</author>
+      <doi>10.1021/nl901232p</doi>
+      <issn>1530-6992</issn>
+      <journal>Nano letters</journal>
+      <keywords>Aluminum</keywords>
+      <keywords>Aluminum: chemistry</keywords>
+      <keywords>Crystallization</keywords>
+      <keywords>Electron</keywords>
+      <keywords>Microscopy</keywords>
+      <keywords>Nanostructures</keywords>
+      <keywords>Nanostructures: chemistry</keywords>
+      <keywords>Photons</keywords>
+      <keywords>Scanning</keywords>
+      <keywords>Solar Energy</keywords>
+      <keywords>Zinc Oxide</keywords>
+      <keywords>Zinc Oxide: chemistry</keywords>
+      <month>July</month>
+      <number>7</number>
+      <pages>2742-2746</pages>
+      <pmid>19492804</pmid>
+      <publisher>American Chemical Society</publisher>
+      <title>{Photonic crystal geometry for organic solar cells.}</title>
+      <url>http://dx.doi.org/10.1021/nl901232p</url>
+      <volume>9</volume>
+      <year>2009</year>
+    </article>
+  </entry>
+  <entry id="tumbleston2009">
+    <article>
+      <abstract>We analyze optical absorption enhancements and quasiguided mode properties of organic solar cells with highly ordered nanostructured photoactive layers comprised of the bulk heterojunction blend, poly-3-hexylthiophene/[6,6]-phenyl-C61-butyric acid methyl ester (P3HT:PCBM) and a low index of refraction conducting material (LICM). This photonic crystal geometry is capable of enhancing spectral absorption by \&#xa0;{}17\% in part due to the excitation of quasiguided modes near the band edge of P3HT:PCBM. A nanostructure thickness between 200 nm and 300 nm is determined to be optimal, while the LICM must have an index of refraction \&#xa0;{}0.3 lower than P3HT:PCBM to produce absorption enhancements. Quasiguided modes that differ in lifetime by an order of magnitude are also identified and yield absorption that is concentrated in the P3HT:PCBM flash layer.</abstract>
+      <author>Tumbleston, John R.</author>
+      <author>Ko, Doo-Hyun</author>
+      <author>Samulski, Edward T.</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1364/OE.17.007670</doi>
+      <issn>1094-4087</issn>
+      <journal>Optics Express</journal>
+      <keywords>Photonic crystals</keywords>
+      <keywords>Solar energy</keywords>
+      <month>April</month>
+      <number>9</number>
+      <pages>7670</pages>
+      <publisher>OSA</publisher>
+      <shorttitle>Opt. Express</shorttitle>
+      <title>{Absorption and quasiguided mode analysis of organic solar cells with photonic crystal photoactive layers}</title>
+      <url>http://www.opticsexpress.org/abstract.cfm?URI=oe-17-9-7670</url>
+      <volume>17</volume>
+      <year>2009</year>
+    </article>
+  </entry>
+  <entry id="alexander2009">
+    <article>
+      <author>Alexander, Kristen D.</author>
+      <author>Hampton, Meredith J.</author>
+      <author>Zhang, Shunping</author>
+      <author>Dhawan, Anuj</author>
+      <author>Xu, Hongxing</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1002/jrs.2392</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/KristenPaper.pdf:pdf</file>
+      <issn>03770486</issn>
+      <journal>Journal of Raman Spectroscopy</journal>
+      <keywords>enhancement factor</keywords>
+      <keywords>gold nanoparticles</keywords>
+      <keywords>hot spot</keywords>
+      <keywords>sers</keywords>
+      <keywords>surface-enhanced raman scattering</keywords>
+      <keywords>templating</keywords>
+      <month>December</month>
+      <number>12</number>
+      <pages>2171-2175</pages>
+      <title>{A high-throughput method for controlled hot-spot fabrication in SERS-active gold nanoparticle dimer arrays}</title>
+      <url>http://doi.wiley.com/10.1002/jrs.2392</url>
+      <volume>40</volume>
+      <year>2009</year>
+    </article>
+  </entry>
+  <entry id="tumbleston2009a">
+    <article>
+      <author>Tumbleston, John R.</author>
+      <author>Ko, Doo-Hyun</author>
+      <author>Samulski, Edward T.</author>
+      <author>Lopez, Rene</author>
+      <doi>10.1063/1.3075053</doi>
+      <issn>00036951</issn>
+      <journal>Applied Physics Letters</journal>
+      <keywords>II-VI semiconductors</keywords>
+      <keywords>excitons</keywords>
+      <keywords>nanostructured materials</keywords>
+      <keywords>organic semiconductors</keywords>
+      <keywords>photonic crystals</keywords>
+      <keywords>semiconductor heterojunctions</keywords>
+      <keywords>solar cells</keywords>
+      <keywords>wide band gap semiconductors</keywords>
+      <keywords>zinc compounds</keywords>
+      <language>en</language>
+      <month>January</month>
+      <number>4</number>
+      <pages>043305</pages>
+      <title>{Electrophotonic enhancement of bulk heterojunction organic solar cells through photonic crystal photoactive layer}</title>
+      <url>http://link.aip.org/link/?APPLAB/94/043305/1</url>
+      <volume>94</volume>
+      <year>2009</year>
+    </article>
+  </entry>
+  <entry id="donev2008">
+    <article>
+      <author>Donev, E. U.</author>
+      <author>Suh, J. Y.</author>
+      <author>Lopez, R.</author>
+      <author>Feldman, L. C.</author>
+      <author>{Haglund Jr.}, R. F.</author>
+      <doi>10.1155/2008/739135</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/739135.v2.pdf:pdf</file>
+      <issn>1687-563X</issn>
+      <journal>Advances in OptoElectronics</journal>
+      <pages>1-11</pages>
+      <title>{Using a Semiconductor-to-Metal Transition to Control Optical Transmission through Subwavelength Hole Arrays}</title>
+      <url>http://www.hindawi.com/journals/aoe/2008/739135.html</url>
+      <volume>2008</volume>
+      <year>2008</year>
+    </article>
+  </entry>
+  <entry id="tumbleston2008">
+    <article>
+      <author>Tumbleston, John R.</author>
+      <author>Ko, Doo-Hyun</author>
+      <author>Lopez, Rene</author>
+      <author>Samulski, Edward T.</author>
+      <doi>10.1117/12.794823</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/Tumbleston SPIE proceedings 2008.pdf:pdf</file>
+      <issn>0277786X</issn>
+      <journal>Proceedings of SPIE</journal>
+      <keywords>nanofabrication</keywords>
+      <keywords>organic photovoltaics</keywords>
+      <keywords>photonic crystals</keywords>
+      <pages>70470S\_1-70470S\_9</pages>
+      <publisher>Spie</publisher>
+      <title>{Characterizing enhanced performance of nanopatterned bulk heterojunction organic photovoltaics}</title>
+      <url>http://link.aip.org/link/PSISDG/v7047/i1/p70470S/s1\&amp;Agg=doi</url>
+      <volume>7047</volume>
+      <year>2008</year>
+    </article>
+  </entry>
+  <entry id="karakurt2007">
+    <article>
+      <author>Karakurt, I.</author>
+      <author>Boneberg, J.</author>
+      <author>Leiderer, P.</author>
+      <author>Lopez, R.</author>
+      <author>Halabica, a.</author>
+      <author>Haglund, R. F.</author>
+      <doi>10.1063/1.2776368</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/GetPDFServlet.pdf:pdf</file>
+      <issn>00036951</issn>
+      <journal>Applied Physics Letters</journal>
+      <number>9</number>
+      <pages>091907</pages>
+      <title>{Transmission increase upon switching of VO[sub 2] thin films on microstructured surfaces}</title>
+      <url>http://link.aip.org/link/APPLAB/v91/i9/p091907/s1\&amp;Agg=doi</url>
+      <volume>91</volume>
+      <year>2007</year>
+    </article>
+  </entry>
+  <entry id="kubler2007">
+    <article>
+      <author>K&#xfc;bler, C.</author>
+      <author>Ehrke, H.</author>
+      <author>Huber, R.</author>
+      <author>Lopez, R.</author>
+      <author>Halabica, a.</author>
+      <author>Haglund, R.</author>
+      <author>Leitenstorfer, a.</author>
+      <doi>10.1103/PhysRevLett.99.116401</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/THZVO2.pdf:pdf</file>
+      <issn>0031-9007</issn>
+      <journal>Physical Review Letters</journal>
+      <month>September</month>
+      <number>11</number>
+      <pages>1-4</pages>
+      <title>{Coherent Structural Dynamics and Electronic Correlations during an Ultrafast Insulator-to-Metal Phase Transition in VO2}</title>
+      <url>http://link.aps.org/doi/10.1103/PhysRevLett.99.116401</url>
+      <volume>99</volume>
+      <year>2007</year>
+    </article>
+  </entry>
+  <entry id="mcmahon2007">
+    <article>
+      <author>McMahon, M.D.</author>
+      <author>Ferrara, D.</author>
+      <author>Bowie, C.T.</author>
+      <author>Lopez, R.</author>
+      <author>{Haglund Jr.}, R.F.</author>
+      <doi>10.1007/s00340-006-2569-3</doi>
+      <issn>0946-2171</issn>
+      <journal>Applied Physics B</journal>
+      <month>February</month>
+      <number>2</number>
+      <pages>259-265</pages>
+      <title>{Second harmonic generation from resonantly excited arrays of gold nanoparticles}</title>
+      <url>http://www.springerlink.com/index/10.1007/s00340-006-2569-3</url>
+      <volume>87</volume>
+      <year>2007</year>
+    </article>
+  </entry>
+  <entry id="donev2006">
+    <article>
+      <author>Donev, E.</author>
+      <author>Suh, J.</author>
+      <author>Villegas, F.</author>
+      <author>Lopez, R.</author>
+      <author>Haglund, R.</author>
+      <author>Feldman, L.</author>
+      <doi>10.1103/PhysRevB.73.201401</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/PRL-draft\_Donev.pdf:pdf</file>
+      <issn>1098-0121</issn>
+      <journal>Physical Review B</journal>
+      <month>May</month>
+      <number>20</number>
+      <pages>1-4</pages>
+      <title>{Optical properties of subwavelength hole arrays in vanadium dioxide thin films}</title>
+      <url>http://link.aps.org/doi/10.1103/PhysRevB.73.201401</url>
+      <volume>73</volume>
+      <year>2006</year>
+    </article>
+  </entry>
+  <entry id="jepsen2006">
+    <article>
+      <author>Jepsen, Peter</author>
+      <author>Fischer, Bernd</author>
+      <author>Thoman, Andreas</author>
+      <author>Helm, Hanspeter</author>
+      <author>Suh, J.</author>
+      <author>Lopez, Ren&#xe9;</author>
+      <author>Haglund, R.</author>
+      <doi>10.1103/PhysRevB.74.205103</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/PRB 2006.pdf:pdf</file>
+      <issn>1098-0121</issn>
+      <journal>Physical Review B</journal>
+      <month>November</month>
+      <number>20</number>
+      <pages>1-9</pages>
+      <title>{Metal-insulator phase transition in a VO2 thin film observed with terahertz spectroscopy}</title>
+      <url>http://link.aps.org/doi/10.1103/PhysRevB.74.205103</url>
+      <volume>74</volume>
+      <year>2006</year>
+    </article>
+  </entry>
+  <entry id="mcmahon2006">
+    <article>
+      <author>McMahon, M.</author>
+      <author>Lopez, R.</author>
+      <author>Haglund, R.</author>
+      <author>Ray, E.</author>
+      <author>Bunton, P.</author>
+      <doi>10.1103/PhysRevB.73.041401</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/matthews\_prb.pdf:pdf</file>
+      <issn>1098-0121</issn>
+      <journal>Physical Review B</journal>
+      <month>January</month>
+      <number>4</number>
+      <pages>1-4</pages>
+      <title>{Second-harmonic generation from arrays of symmetric gold nanoparticles}</title>
+      <url>http://link.aps.org/doi/10.1103/PhysRevB.73.041401</url>
+      <volume>73</volume>
+      <year>2006</year>
+    </article>
+  </entry>
+  <entry id="lopez2006">
+    <inproceedings>
+      <author>Lopez, Rene</author>
+      <author>Haglund, Jr.</author>
+      <author>Feldman, Leonard C.</author>
+      <author>Boatner, Lynn A.</author>
+      <author>Haynes, Tony E.</author>
+      <booktitle>Integrated Optoelectronic Devices 2006</booktitle>
+      <doi>10.1117/12.640977</doi>
+      <editor>Tsen, Kong-Thon</editor>
+      <editor>Song, Jin-Joo</editor>
+      <editor>Jiang, Hongxing</editor>
+      <file>:C$\backslash$:/Users/Yo/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Lopez et al. - 2006 - Optical nonlinearities and the ultrafast phase transition of VO2 nanoparticles and thin films(2).pdf:pdf</file>
+      <month>February</month>
+      <pages>61180O-61180O-9</pages>
+      <publisher>International Society for Optics and Photonics</publisher>
+      <title>{Optical nonlinearities and the ultrafast phase transition of VO2 nanoparticles and thin films}</title>
+      <url>http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1275042</url>
+      <year>2006</year>
+    </inproceedings>
+  </entry>
+  <entry id="mcmahon2006a">
+    <article>
+      <author>McMahon, Matthew D.</author>
+      <doi>10.1117/12.646974</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/MDM\_SPIE\_6106B-63.pdf:pdf</file>
+      <issn>0277786X</issn>
+      <journal>Proceedings of SPIE</journal>
+      <keywords>femtosecond</keywords>
+      <keywords>focused-ion-beam</keywords>
+      <keywords>gold</keywords>
+      <keywords>metal nanoparticles</keywords>
+      <keywords>ordered arrays</keywords>
+      <keywords>second-harmonic generation</keywords>
+      <pages>61061N-61061N-9</pages>
+      <publisher>Spie</publisher>
+      <title>{Second harmonic generation from centrosymmetric arrays of gold nanoparticles}</title>
+      <url>http://link.aip.org/link/PSISDG/v6106/i1/p61061N/s1\&amp;Agg=doi</url>
+      <year>2006</year>
+    </article>
+  </entry>
+  <entry id="rozen2006">
+    <article>
+      <author>Rozen, John</author>
+      <author>Lopez, Rene&#xfffd;&#xfffd;</author>
+      <author>Haglund, Richard F.</author>
+      <author>Feldman, Leonard C.</author>
+      <doi>10.1063/1.2175490</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/APL\_081902.pdf:pdf</file>
+      <issn>00036951</issn>
+      <journal>Applied Physics Letters</journal>
+      <number>8</number>
+      <pages>081902</pages>
+      <title>{Two-dimensional current percolation in nanocrystalline vanadium dioxide films}</title>
+      <url>http://link.aip.org/link/APPLAB/v88/i8/p081902/s1\&amp;Agg=doi</url>
+      <volume>88</volume>
+      <year>2006</year>
+    </article>
+  </entry>
+  <entry id="hmelo2006">
+    <incollection>
+      <address>Hoboken, NJ, USA</address>
+      <author>Hmelo, Anthony B.</author>
+      <author>McMahon, Matthew D.</author>
+      <author>Lopez, Rene</author>
+      <author>Magruder, Robert H.</author>
+      <author>Weller, Robert A.</author>
+      <author>Haglund, Richard F.</author>
+      <author>Feldman, Leonard C.</author>
+      <booktitle>Ceramic Nanomaterials and Nanotechnology II</booktitle>
+      <doi>10.1002/9781118406083</doi>
+      <editor>{De Guire}, Mark R.</editor>
+      <editor>Hu, Michael Z.</editor>
+      <editor>Gogotsi, Yury</editor>
+      <editor>Lu, Song Wei</editor>
+      <isbn>9781118406083</isbn>
+      <month>March</month>
+      <publisher>John Wiley \&amp; Sons, Inc.</publisher>
+      <title>{Fabrication of Metallic Nanocrystal Arrays for Nanoscale Nonlinear Optics}</title>
+      <url>http://doi.wiley.com/10.1002/9781118406083</url>
+      <year>2006</year>
+    </incollection>
+  </entry>
+  <entry id="suh2006">
+    <article>
+      <author>Suh, J. Y.</author>
+      <author>Donev, E. U.</author>
+      <author>Lopez, R.</author>
+      <author>Feldman, L. C.</author>
+      <author>Haglund, R. F.</author>
+      <doi>10.1063/1.2190463</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/JaeAPL2006.pdf:pdf</file>
+      <issn>00036951</issn>
+      <journal>Applied Physics Letters</journal>
+      <number>13</number>
+      <pages>133115</pages>
+      <title>{Modulated optical transmission of subwavelength hole arrays in metal-VO[sub 2] films}</title>
+      <url>http://link.aip.org/link/APPLAB/v88/i13/p133115/s1\&amp;Agg=doi</url>
+      <volume>88</volume>
+      <year>2006</year>
+    </article>
+  </entry>
+  <entry id="rini2005">
+    <incollection>
+      <address>Berlin Heidelberg</address>
+      <author>Rini, Matteo</author>
+      <author>Cavalleri, Andrea</author>
+      <author>L&#xf3;pez, Ren&#xe9;</author>
+      <author>Boatner, Lynn A</author>
+      <author>F, Richard</author>
+      <author>Haynes, Tony E</author>
+      <author>Feldman, Leonard C</author>
+      <author>Schoenlein, Robert W</author>
+      <booktitle>Ultrafast Phenomena XIV Series in Chemical Physics</booktitle>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/M. Rini, Procedings 14th conf. ultrafast phenomena (2004).PDF:PDF</file>
+      <number>3</number>
+      <pages>792-794</pages>
+      <publisher>Springer</publisher>
+      <title>{Ultrafast Control of a Surface Plasmon Resonance via the Insulator to Metal Transition in VO 2 Nanoparticles}</title>
+      <url>http://link.springer.com/chapter/10.1007\%2F3-540-27213-5\_242\#</url>
+      <volume>1</volume>
+      <year>2005</year>
+    </incollection>
+  </entry>
+  <entry id="mcmahon2005">
+    <article>
+      <author>Mcmahon, M. D.</author>
+      <author>Lopez, R.</author>
+      <author>Meyer, H. M.</author>
+      <author>Feldman, L. C.</author>
+      <author>Haglund, R. F.</author>
+      <doi>10.1007/s00340-005-1793-6</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/McMahon APB 20050119.pdf:pdf</file>
+      <issn>0946-2171</issn>
+      <journal>Applied Physics B</journal>
+      <month>April</month>
+      <number>7</number>
+      <pages>915-921</pages>
+      <title>{Rapid tarnishing of silver nanoparticles in ambient laboratory air}</title>
+      <url>http://www.springerlink.com/index/10.1007/s00340-005-1793-6</url>
+      <volume>80</volume>
+      <year>2005</year>
+    </article>
+  </entry>
+  <entry id="rini2005a">
+    <article>
+      <abstract>We study the ultrafast insulator-to-metal transition in nanoparticles of VO2, obtained by ion implantation and self-assembly in silica. The nonmagnetic, strongly correlated compound VO2 undergoes a reversible phase transition, which can be photoinduced on an ultrafast time scale. In the nanoparticles, prompt formation of the metallic state results in the appearance of surface-plasmon resonance. We achieve large, ultrafast enhancement of optical absorption in the near-infrared spectral region that encompasses the wavelength range for optical-fiber communications. One can further tailor the response of the nanoparticles by controlling their shape.</abstract>
+      <author>Rini, Matteo</author>
+      <author>Cavalleri, Andrea</author>
+      <author>Schoenlein, Robert W</author>
+      <author>L&#xf3;pez, Ren&#xe9;</author>
+      <author>Feldman, Leonard C</author>
+      <author>Haglund, Richard F</author>
+      <author>Boatner, Lynn a</author>
+      <author>Haynes, Tony E</author>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/M. Rini, submitted APL, June 2004/M. Rini, sub. APL, June 2004.pdf:pdf</file>
+      <issn>0146-9592</issn>
+      <journal>Optics letters</journal>
+      <month>March</month>
+      <number>5</number>
+      <pages>558-60</pages>
+      <pmid>15789735</pmid>
+      <title>{Photoinduced phase transition in VO2 nanocrystals: ultrafast control of surface-plasmon resonance.}</title>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/15789735</url>
+      <volume>30</volume>
+      <year>2005</year>
+    </article>
+  </entry>
+  <entry id="lopez2004">
+    <article>
+      <author>Lopez, R.</author>
+      <author>Feldman, L.</author>
+      <author>Haglund, R.</author>
+      <doi>10.1103/PhysRevLett.93.177403</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/Lopez 2004 PRL V.93.pdf:pdf</file>
+      <issn>0031-9007</issn>
+      <journal>Physical Review Letters</journal>
+      <month>October</month>
+      <number>17</number>
+      <pages>20-23</pages>
+      <title>{Size-Dependent Optical Properties of VO2 Nanoparticle Arrays}</title>
+      <url>http://link.aps.org/doi/10.1103/PhysRevLett.93.177403</url>
+      <volume>93</volume>
+      <year>2004</year>
+    </article>
+  </entry>
+  <entry id="lopez2004b">
+    <article>
+      <author>Lopez, R.</author>
+      <author>Suh, JY</author>
+      <author>Feldman, LC</author>
+      <author>{Haglund Jr}, RF</author>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/MRS\_820\_r1.5.1 (2004).pdf:pdf</file>
+      <journal>Materials research society proceedings</journal>
+      <pages>1-6</pages>
+      <publisher>Materials Research Society, 506 Keystone Drive, Warrendale, PA, 15086, USA,</publisher>
+      <title>{Ion beam lithographic fabrication of ordered VO2 nanoparticle arrays}</title>
+      <volume>820</volume>
+      <year>2004</year>
+    </article>
+  </entry>
+  <entry id="suh2004">
+    <article>
+      <author>Suh, J. Y.</author>
+      <author>Lopez, R.</author>
+      <author>Feldman, L. C.</author>
+      <author>Haglund, R. F.</author>
+      <doi>10.1063/1.1762995</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/JAPVO2\_96\_1209(2004).pdf:pdf</file>
+      <issn>00218979</issn>
+      <journal>Journal of Applied Physics</journal>
+      <number>2</number>
+      <pages>1209</pages>
+      <title>{Semiconductor to metal phase transition in the nucleation and growth of VO2 nanoparticles and thin films}</title>
+      <url>http://link.aip.org/link/JAPIAU/v96/i2/p1209/s1\&amp;Agg=doi</url>
+      <volume>96</volume>
+      <year>2004</year>
+    </article>
+  </entry>
+  <entry id="haglund2004">
+    <inproceedings>
+      <author>Haglund, Jr.</author>
+      <author>Lopez, Rene</author>
+      <author>Suh, J. Y.</author>
+      <author>Feldman, Leonard C.</author>
+      <author>Haynes, Tony E.</author>
+      <author>Boatner, Lynn A.</author>
+      <booktitle>Lasers and Applications in Science and Engineering</booktitle>
+      <doi>10.1117/12.532331</doi>
+      <editor>Herman, Peter R.</editor>
+      <editor>Fieret, Jim</editor>
+      <editor>Pique, Alberto</editor>
+      <editor>Okada, Tatsuo</editor>
+      <editor>Bachmann, Friedrich G.</editor>
+      <editor>Hoving, Willem</editor>
+      <editor>Washio, Kunihiko</editor>
+      <editor>Xu, Xianfan</editor>
+      <editor>Dubowski, Jan J.</editor>
+      <editor>Geohegan, David B.</editor>
+      <editor>Traeger, Frank</editor>
+      <file>:C$\backslash$:/Users/Yo/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Haglund et al. - 2004 - Fabricating arrays of vanadium dioxide nanodisks by focused ion-beam lithography and pulsed-laser deposition.pdf:pdf</file>
+      <month>July</month>
+      <pages>601-610</pages>
+      <publisher>International Society for Optics and Photonics</publisher>
+      <title>{Fabricating arrays of vanadium dioxide nanodisks by focused ion-beam lithography and pulsed-laser deposition}</title>
+      <url>http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1322042</url>
+      <year>2004</year>
+    </inproceedings>
+  </entry>
+  <entry id="lopez2004c">
+    <article>
+      <author>Lopez, R.</author>
+      <author>Boatner, L. a.</author>
+      <author>Haynes, T. E.</author>
+      <author>Haglund, R. F.</author>
+      <author>Feldman, L. C.</author>
+      <doi>10.1063/1.1784546</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/Lopez 2004 APL 85 1410.pdf:pdf</file>
+      <issn>00036951</issn>
+      <journal>Applied Physics Letters</journal>
+      <number>8</number>
+      <pages>1410</pages>
+      <title>{Switchable reflectivity on silicon from a composite VO[sub 2]-SiO[sub 2] protecting layer}</title>
+      <url>http://link.aip.org/link/APPLAB/v85/i8/p1410/s1\&amp;Agg=doi</url>
+      <volume>85</volume>
+      <year>2004</year>
+    </article>
+  </entry>
+  <entry id="lopez2004a">
+    <article>
+      <author>Lopez, Rene</author>
+      <author>Haglund, Richard F.</author>
+      <author>Feldman, Leonard C.</author>
+      <author>Boatner, Lynn a.</author>
+      <author>Haynes, Tony E.</author>
+      <doi>10.1063/1.1826232</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/lopez 2004 APL 85 5191.pdf:pdf</file>
+      <issn>00036951</issn>
+      <journal>Applied Physics Letters</journal>
+      <number>22</number>
+      <pages>5191</pages>
+      <title>{Optical nonlinearities in VO2 nanoparticles and thin films}</title>
+      <url>http://link.aip.org/link/APPLAB/v85/i22/p5191/s1\&amp;Agg=doi</url>
+      <volume>85</volume>
+      <year>2004</year>
+    </article>
+  </entry>
+  <entry id="feldman2003">
+    <article>
+      <author>Feldman, L</author>
+      <author>Lpke, G</author>
+      <author>Tolk, N</author>
+      <author>Lopez, R</author>
+      <author>Haglund, R</author>
+      <author>Haynes, T</author>
+      <author>Boatner, L</author>
+      <doi>10.1016/S0168-583X(03)01834-2</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/Nucl. Inst. and Meth. B, 212, 1 (2003).pdf:pdf</file>
+      <issn>0168583X</issn>
+      <journal>Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms</journal>
+      <month>December</month>
+      <pages>1-7</pages>
+      <title>{Particle&#xfffd;&#xfffd;&#xfffd;solid interactions and 21st century materials science}</title>
+      <url>http://linkinghub.elsevier.com/retrieve/pii/S0168583X03018342</url>
+      <volume>212</volume>
+      <year>2003</year>
+    </article>
+  </entry>
+  <entry id="mcmahon2003">
+    <article>
+      <author>Mcmahon, Matthew D</author>
+      <author>Hmelo, Anthony B</author>
+      <author>Lopez, Rene</author>
+      <author>Ryle, Wesley T</author>
+      <author>T, Allen</author>
+      <author>Haglund, Richard F</author>
+      <author>Feldman, Leonard C</author>
+      <author>Weller, Robert A</author>
+      <author>H, Robert</author>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/MRS\_ 739\_53 (2003).pdf:pdf</file>
+      <journal>Materials Research</journal>
+      <pages>2-7</pages>
+      <title>{Mat. Res. Soc. Symp. Proc. Vol. 739 &#xfffd;&#xfffd; 2003 Materials Research Society H2.7.1}</title>
+      <volume>739</volume>
+      <year>2003</year>
+    </article>
+  </entry>
+  <entry id="lopez2002a">
+    <article>
+      <author>Lopez, R.</author>
+      <author>Boatner, L. a.</author>
+      <author>Haynes, T. E.</author>
+      <author>Feldman, L. C.</author>
+      <author>Haglund, R. F.</author>
+      <doi>10.1063/1.1503391</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/JAP\_92\_4031 (2002).pdf:pdf</file>
+      <issn>00218979</issn>
+      <journal>Journal of Applied Physics</journal>
+      <number>7</number>
+      <pages>4031</pages>
+      <title>{Synthesis and characterization of size-controlled vanadium dioxide nanocrystals in a fused silica matrix}</title>
+      <url>http://link.aip.org/link/JAPIAU/v92/i7/p4031/s1\&amp;Agg=doi</url>
+      <volume>92</volume>
+      <year>2002</year>
+    </article>
+  </entry>
+  <entry id="lopez2002">
+    <article>
+      <author>Lopez, R.</author>
+      <author>Haynes, T.</author>
+      <author>Boatner, L.</author>
+      <author>Feldman, L.</author>
+      <author>Haglund, R.</author>
+      <doi>10.1103/PhysRevB.65.224113</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/prb 65\_224113 (2003).pdf:pdf</file>
+      <issn>0163-1829</issn>
+      <journal>Physical Review B</journal>
+      <month>June</month>
+      <number>22</number>
+      <pages>1-5</pages>
+      <title>{Size effects in the structural phase transition of VO2 nanoparticles}</title>
+      <url>http://link.aps.org/doi/10.1103/PhysRevB.65.224113</url>
+      <volume>65</volume>
+      <year>2002</year>
+    </article>
+  </entry>
+  <entry id="lopez2002b">
+    <article>
+      <abstract>The optical properties of VO(2) nanoparticles formed in an amorphous SiO(2) host by stoichiometric ion implantation of vanadium and oxygen and thermal annealing have been determined and correlated with the particle size and morphology. The results show that that the temperature-controlled semiconductor-to-metal phase transition of the VO(2) nanophase precipitates turns on the classical surface plasmon resonance, with specific features that depend on the size and aspect ratio of the VO(2) particles. This effect improves the optical contrast between the metallic and semiconducting states in the near-IR region of the spectrum as a result of dielectric confinement that is due to the SiO(2) host. A fiber-optic application is demonstrated, as is the ability to control the characteristics of the phase transition by using ion implantation to dope the VO(2) nanoparticles with tungsten or titanium ions.</abstract>
+      <author>Lopez, R</author>
+      <author>Haynes, T E</author>
+      <author>Boatner, L a</author>
+      <author>Feldman, L C</author>
+      <author>Haglund, R F</author>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/optics letter\_27\_ 1327(2002).pdf:pdf</file>
+      <issn>0146-9592</issn>
+      <journal>Optics letters</journal>
+      <month>August</month>
+      <number>15</number>
+      <pages>1327-9</pages>
+      <pmid>18026439</pmid>
+      <title>{Temperature-controlled surface plasmon resonance in VO2 nanorods.}</title>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/18026439</url>
+      <volume>27</volume>
+      <year>2002</year>
+    </article>
+  </entry>
+  <entry id="lopez2001">
+    <article>
+      <author>Lopez, R.</author>
+      <author>Boatner, L. a.</author>
+      <author>Haynes, T. E.</author>
+      <author>Haglund, R. F.</author>
+      <author>Feldman, L. C.</author>
+      <doi>10.1063/1.1415768</doi>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/APL, 79, 3161 (2001).pdf:pdf</file>
+      <issn>00036951</issn>
+      <journal>Applied Physics Letters</journal>
+      <number>19</number>
+      <pages>3161</pages>
+      <title>{Enhanced hysteresis in the semiconductor-to-metal phase transition of VO[sub 2] precipitates formed in SiO[sub 2] by ion implantation}</title>
+      <url>http://link.aip.org/link/APPLAB/v79/i19/p3161/s1\&amp;Agg=doi</url>
+      <volume>79</volume>
+      <year>2001</year>
+    </article>
+  </entry>
+  <entry id="lopez2001a">
+    <article>
+      <author>Lopez, R</author>
+      <author>Ruiz, R</author>
+      <author>Jr, R F Haglund</author>
+      <author>Feldman, L C</author>
+      <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/AP A, 74, 307 (2002).pdf:pdf</file>
+      <journal>Appl. Phys. A</journal>
+      <pages>307-310</pages>
+      <title>{Rapid communication Pulsed laser deposition of conductive metallo-dielectric optical filters}</title>
+      <volume>74</volume>
+      <year>2001</year>
+    </article>
+  </entry>
+  <entry id="garcia-llamas2001">
+    <inproceedings>
+      <author>Garcia-Llamas, Raul</author>
+      <author>Gaspar-Armenta, Jorge A.</author>
+      <author>Ramos-Mendieta, Felipe</author>
+      <author>Lopez, R.</author>
+      <author>Haglund, Jr.</author>
+      <author>Ruiz, Ricardo</author>
+      <booktitle>International Symposium on Optical Science and Technology</booktitle>
+      <doi>10.1117/12.447626</doi>
+      <editor>Norwood, Robert A.</editor>
+      <file>:C$\backslash$:/Users/Yo/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Garcia-Llamas et al. - 2001 - Injection of light into a planar dielectric wave guide of metallic walls.pdf:pdf</file>
+      <month>November</month>
+      <pages>88-94</pages>
+      <publisher>International Society for Optics and Photonics</publisher>
+      <title>{Injection of light into a planar dielectric wave guide of metallic walls}</title>
+      <url>http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=889411</url>
+      <year>2001</year>
+    </inproceedings>
+  </entry>
+</file>
+

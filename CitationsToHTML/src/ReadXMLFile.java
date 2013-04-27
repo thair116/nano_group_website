@@ -13,7 +13,7 @@ public class ReadXMLFile {
 		try {
 
 			File fXmlFile = new File(
-					"/Users/twh116/Desktop/Solar Website/GitHub/CitationsToHTML/Citations.xml");
+					"/Users/twh116/Desktop/Solar Website/GitHub/bib.xml");
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory
 					.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -69,10 +69,15 @@ public class ReadXMLFile {
 					//System.out.println(cleanTitle + ". ");
 					System.out.println("<i> " + cleanTitle + "</i>. ");
 
+					
 					// Print journal, volume, and page number
+					try{
 					String journal = eElement.getElementsByTagName("journal")
 							.item(0).getTextContent();
 					System.out.print(journal);
+					} catch (Exception e){
+						
+					}
 					try {
 						String volume = eElement.getElementsByTagName("volume")
 								.item(0).getTextContent();
@@ -94,6 +99,14 @@ public class ReadXMLFile {
 					} catch (Exception e) {
 						System.out.println(".");
 					}
+					try {
+						String url = eElement.getElementsByTagName("url")
+								.item(0).getTextContent();
+						System.out.println("<a href='" + url + "'>"+url.substring(0, 25) + "...</a>");
+					} catch (Exception e) {
+						System.out.println(".");
+					}
+
 					
 					
 					
