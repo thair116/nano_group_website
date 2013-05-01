@@ -1,9 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+	<link rel="stylesheet" href="../orbit-1.2.3.css">
+	<link rel="stylesheet" href="../demo-style.css">
+
+	<!-- Attach necessary JS -->
+	
+
 	<link rel="stylesheet" type="text/css" media="all" href="../style.css">
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100' rel='stylesheet' type='text/css'>
 	<script type="text/javascript" src="../jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="../jquery.orbit-1.2.3.min.js"></script>
+
 	<!-- Add fancyBox -->
 	<link rel="stylesheet" href="../fancybox/source/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen" />
 	<script type="text/javascript" src="../fancybox/source/jquery.fancybox.pack.js?v=2.1.4"></script>
@@ -15,6 +24,11 @@
 	<link rel="stylesheet" href="../fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
 	<script type="text/javascript" src="../fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
 	<script type="text/javascript" src="../initV7.js"></script>
+	<script type="text/javascript">
+	$(window).load(function() {
+		$('#featured').orbit();
+	});
+	</script>
 	<title>Nanoscale Optical Materials</title>
 	<link rel="shortcut icon" href="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sun.svg/35px-Sun.svg.png">
 </head>
@@ -36,8 +50,11 @@
 		<nav class="access">
 			<div class="menu-main_nav-container">
 				<ul class="menu-main_nav">
-					<li class="last menu-item  selected_tab">
-						<a> About </a>
+					<li class="menu-item">
+						<a href="../index.html"> Home </a>
+					</li>
+					<li class="menu-item  selected_tab">
+						<a href="../About/Lab_facilities.html"> About </a>
 						<div class="div-sub_nav">
 							<table>
 								<tbody>
@@ -69,7 +86,10 @@
 													<a href="../Research/Current_research.html"> Current Research </a>
 												</li>
 												<li class="sub_menu-item">
-													<a href="../Research/Past_publications.html"> Past Publications</a>
+													<a href="../Research/Current_research.html#past_research"> Past Research </a>
+												</li>
+												<li class="sub_menu-item">
+													<a href="../Research/Past_publications.html"> Publications</a>
 												</li>
 											</ul>
 										</td>
@@ -81,8 +101,8 @@
 					<li class="menu-item">
 						<a href="../News/News.html"> News </a>
 					</li>
-					<li class="last menu-item">
-						<a> People </a>
+					<li class="menu-item">
+						<a href="../People/Rene_Lopez.html"> People </a>
 						<div class="div-sub_nav">
 							<table>
 								<tbody>
@@ -123,6 +143,48 @@
 	</header>
 	<div id="main">
 		<div id="left_main" class="column">
+			<div id="research" class="stuff">
+				<div class="stuff_title">
+					<h2> Our Facilities </h2>
+				</div>
+				<div class="research_block">
+					<div class="research_block_words">
+						<p>
+							
+						</p>
+					</div>
+					<div id="container">
+						<div id="featured"> 
+							<div class="content" style="">
+								<h1>Welcome to our lab.</h1>
+								<h3>Look at our cool things.</h3>
+							</div>
+							<!--<a href=""><img height=400px src="../images/lab/IMG_2823.jpg" /></a>-->
+							<img src="../images/lab/IMG_2825.jpg" data-caption="#caption25" />
+							<img src="../images/lab/IMG_2826.jpg" data-caption="#caption26-30" />
+							<img src="../images/lab/IMG_2830.jpg" data-caption="#caption26-30" />
+							<img src="../images/lab/IMG_2832.jpg" data-caption="#caption32" />
+							<img src="../images/lab/IMG_2834.jpg" data-caption="#htmlCaption" />
+							<img src="../images/lab/IMG_2836.jpg" data-caption="#htmlCaption" />
+							<img src="../images/lab/IMG_2837.jpg" data-caption="#htmlCaption" />
+							<img src="../images/lab/IMG_2841.jpg" data-caption="#caption41" />
+							<img src="../images/lab/IMG_2842.jpg" data-caption="#htmlCaption" />
+							<img src="../images/lab/IMG_2843.jpg" data-caption="#caption43" />
+							<img src="../images/lab/IMG_2846.jpg" data-caption="#caption46" />
+							<img src="../images/lab/IMG_2849.jpg" data-caption="#htmlCaption" />
+							<img src="../images/lab/IMG_2851.jpg" data-caption="#htmlCaption" />
+						</div>
+						<!-- Captions for Orbit -->
+						<span class="orbit-caption" id="caption25">Plume in our pulsed laser deposition system (part of the CHANL facilities) </span>
+						<span class="orbit-caption" id="caption26-30">Nitrogen glovebox for polymer solar cell fabrication and characterization  </span>
+						<span class="orbit-caption" id="caption32">Semiconductor 4-probe characterization station system </span>
+						<span class="orbit-caption" id="caption41">Visible/NIR Wollam ellipsometer</span>
+						<span class="orbit-caption" id="caption43">Cryostatat integrated Photoluminscence and spectrometry </span>
+						<span class="orbit-caption" id="caption46">Double Confocal/Raman microscope with high resolution CCD camera/spectrometer </span>
+						
+					</div>
+				</div>
+			</div>
 		</div>
 		<div id="right_main" class="column">
 		</div>

@@ -1,9 +1,9 @@
-  <?xml version="1.0" encoding="US-ASCII"?>
+<?xml version="1.0" encoding="US-ASCII"?>
 <file xmlns="http://bibtexml.sf.net/">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:date>2013-04-26T12:18:22-0400</dc:date>
+    <dc:date>2013-04-27T14:18:54-0400</dc:date>
     <dc:format>text/xml</dc:format>
-    <dc:identifier>urn:uuid:fed5da8d-4beb-4639-a53e-4854f6b8046e</dc:identifier>
+    <dc:identifier>urn:uuid:e4931c69-0b35-440d-8eda-5a2916593523</dc:identifier>
   </metadata>
   <entry id="liu2013">
     <article>
@@ -28,7 +28,7 @@
   </entry>
   <entry id="ok2013">
     <article>
-      <abstract>An array of periodic surface features were patterned on mesoporous niobium oxide films by a soft-lithographic technique with the goal of constructing a photonic crystal (PC) structure on the back side of the oxide. The oxide films, fabricated by mixing sol-gel derived niobium oxide nanoparticles and hydroxypropyl cellulose, were employed as photoelectrodes in dye-sensitized solar cells (DSSCs), and their performance evaluated against their flat counterparts. The surface patterns were imprinted using a photocurable perfluoropolyether (PFPE) soft-replica of a silicon master with a two-dimensional array of cylindrical posts (200 nm (D) &#xfffd;&#xfffd; 200 nm (H)) in hexagonal geometry. The PC on the niobium oxide surface caused large changes in optical measurements, particularly in the blue wavelengths. To evaluate the optical effect on solar energy conversion, the incident photon-to-current conversion efficiency (IPCE) was measured in the patterned devices and the control group. The IPCE of patterned niobium oxide anodes exhibited a relative enhancement in photocurrent generation over the wavelength range corresponding to the higher absorption in optical measurements.</abstract>
+      <abstract>An array of periodic surface features were patterned on mesoporous niobium oxide films by a soft-lithographic technique with the goal of constructing a photonic crystal (PC) structure on the back side of the oxide. The oxide films, fabricated by mixing sol-gel derived niobium oxide nanoparticles and hydroxypropyl cellulose, were employed as photoelectrodes in dye-sensitized solar cells (DSSCs), and their performance evaluated against their flat counterparts. The surface patterns were imprinted using a photocurable perfluoropolyether (PFPE) soft-replica of a silicon master with a two-dimensional array of cylindrical posts (200 nm (D) &#xd7; 200 nm (H)) in hexagonal geometry. The PC on the niobium oxide surface caused large changes in optical measurements, particularly in the blue wavelengths. To evaluate the optical effect on solar energy conversion, the incident photon-to-current conversion efficiency (IPCE) was measured in the patterned devices and the control group. The IPCE of patterned niobium oxide anodes exhibited a relative enhancement in photocurrent generation over the wavelength range corresponding to the higher absorption in optical measurements.</abstract>
       <author>Ok, Myoung-Ryul</author>
       <author>Ghosh, Rudresh</author>
       <author>Brennaman, M Kyle</author>
@@ -308,7 +308,7 @@
       <number>28</number>
       <pages>14837-14847</pages>
       <publisher>American Chemical Society</publisher>
-      <title>{Structure&#xfffd;&#xfffd;&#xfffd;Property Relationships in Phosphonate-Derivatized, Ru II Polypyridyl Dyes on Metal Oxide Surfaces in an Aqueous Environment}</title>
+      <title>{Structure&#x2013;Property Relationships in Phosphonate-Derivatized, Ru II Polypyridyl Dyes on Metal Oxide Surfaces in an Aqueous Environment}</title>
       <url>http://dx.doi.org/10.1021/jp304088d</url>
       <volume>116</volume>
       <year>2012</year>
@@ -354,7 +354,7 @@
       <issn>1744-683X</issn>
       <journal>Soft Matter</journal>
       <pages>10-13</pages>
-      <title>{Biomimetic microlens array with antireflective &#xfffd;&#xfffd;&#xfffd;moth-eye&#xfffd;&#xfffd;&#xfffd; surface}</title>
+      <title>{Biomimetic microlens array with antireflective &#x201c;moth-eye&#x201d; surface}</title>
       <url>http://xlink.rsc.org/?DOI=c1sm05302g</url>
       <year>2011</year>
     </article>
@@ -449,7 +449,7 @@
       <journal>J. Optical Society of America B</journal>
       <number>7</number>
       <pages>1778-1781</pages>
-      <title>{Numerical design and scattering losses of a one-dimensional metallo &#xfffd;&#xfffd;&#xfffd; dielectric multilayer with broadband coupling of propagating waves to plasmon modes in the visible range}</title>
+      <title>{Numerical design and scattering losses of a one-dimensional metallo &#x2013; dielectric multilayer with broadband coupling of propagating waves to plasmon modes in the visible range}</title>
       <volume>28</volume>
       <year>2011</year>
     </article>
@@ -1083,7 +1083,7 @@
   <entry id="rozen2006">
     <article>
       <author>Rozen, John</author>
-      <author>Lopez, Rene&#xfffd;&#xfffd;</author>
+      <author>Lopez, Rene&#x301;</author>
       <author>Haglund, Richard F.</author>
       <author>Feldman, Leonard C.</author>
       <doi>10.1063/1.2175490</doi>
@@ -1341,7 +1341,7 @@
       <journal>Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms</journal>
       <month>December</month>
       <pages>1-7</pages>
-      <title>{Particle&#xfffd;&#xfffd;&#xfffd;solid interactions and 21st century materials science}</title>
+      <title>{Particle&#x2013;solid interactions and 21st century materials science}</title>
       <url>http://linkinghub.elsevier.com/retrieve/pii/S0168583X03018342</url>
       <volume>212</volume>
       <year>2003</year>
@@ -1361,7 +1361,7 @@
       <file>:C$\backslash$:/Users/Yo/Documents/UNC work directory/my papers/MRS\_ 739\_53 (2003).pdf:pdf</file>
       <journal>Materials Research</journal>
       <pages>2-7</pages>
-      <title>{Mat. Res. Soc. Symp. Proc. Vol. 739 &#xfffd;&#xfffd; 2003 Materials Research Society H2.7.1}</title>
+      <title>{Mat. Res. Soc. Symp. Proc. Vol. 739 &#xa9; 2003 Materials Research Society H2.7.1}</title>
       <volume>739</volume>
       <year>2003</year>
     </article>

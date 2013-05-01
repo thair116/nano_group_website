@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="UTF-8">
 	<link rel="stylesheet" type="text/css" media="all" href="./style.css">
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100' rel='stylesheet' type='text/css'>
 	<script type="text/javascript" src="./jquery-1.7.1.min.js"></script>
@@ -17,52 +18,6 @@
 	<script type="text/javascript" src="./initV7.js"></script>
 	<title>Nanoscale Optical Materials</title>
 	<link rel="shortcut icon" href="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sun.svg/35px-Sun.svg.png">
-	<script>
-	$(document).ready(function() {
-
-		// Check for geolocation support
-		if (navigator.geolocation) {
-		// Use method getCurrentPosition to get coordinates
-		navigator.geolocation.getCurrentPosition(function (position) {
-		// Access them accordingly
-		console.log(position.coords.latitude + ", " + position.coords.longitude);
-	});
-	}
-	/* Home page initialization */
-
-	xmlhttp=new XMLHttpRequest();
-	xmlhttp.open("GET","./test.xml",false);
-	xmlhttp.send();
-	xmlDoc=xmlhttp.responseXML;
-
-	/*document.getElementById("res_title1").innerHTML=
-	xmlDoc.getElementsByTagName("research")[0].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-	document.getElementById("res_descrip1").innerHTML=
-	xmlDoc.getElementsByTagName("research")[0].getElementsByTagName("description")[0].childNodes[0].nodeValue;
-	*/
-	
-	document.getElementById("res_title2").innerHTML=
-	xmlDoc.getElementsByTagName("research")[1].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-	document.getElementById("res_descrip2").innerHTML=
-	xmlDoc.getElementsByTagName("research")[1].getElementsByTagName("description")[0].childNodes[0].nodeValue;
-
-	document.getElementById("res_title3").innerHTML=
-	xmlDoc.getElementsByTagName("research")[2].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-	document.getElementById("res_descrip3").innerHTML=
-	xmlDoc.getElementsByTagName("research")[2].getElementsByTagName("description")[0].childNodes[0].nodeValue;
-
-	document.getElementById("news_title1").innerHTML=
-	xmlDoc.getElementsByTagName("news")[0].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-	document.getElementById("news_descrip1").innerHTML=
-	xmlDoc.getElementsByTagName("news")[0].getElementsByTagName("description")[0].childNodes[0].nodeValue;
-
-	document.getElementById("news_title2").innerHTML=
-	xmlDoc.getElementsByTagName("news")[1].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-	document.getElementById("news_descrip2").innerHTML=
-	xmlDoc.getElementsByTagName("news")[1].getElementsByTagName("description")[0].childNodes[0].nodeValue;
-});
-/* End home page initialization */
-</script>
 </head>
 <body id="body">
 	<header id="header">
@@ -82,8 +37,11 @@
 		<nav class="access">
 			<div class="menu-main_nav-container">
 				<ul class="menu-main_nav">
+					<li class="menu-item selected_tab">
+						<a href="./index.html"> Home </a>
+					</li>
 					<li class="menu-item">
-						<a> About </a>
+						<a href="./About/Lab_facilities.html"> About </a>
 						<div class="div-sub_nav">
 							<table>
 								<tbody>
@@ -115,7 +73,10 @@
 													<a href="./Research/Current_research.html"> Current Research </a>
 												</li>
 												<li class="sub_menu-item">
-													<a href="./Research/Past_publications.html"> Past Publications</a>
+													<a href="./Research/Current_research.html#past_research"> Past Research </a>
+												</li>
+												<li class="sub_menu-item">
+													<a href="./Research/Past_publications.html"> Publications</a>
 												</li>
 											</ul>
 										</td>
@@ -127,8 +88,8 @@
 					<li class="menu-item">
 						<a href="./News/News.html"> News </a>
 					</li>
-					<li class="last menu-item">
-						<a> People </a>
+					<li class="menu-item">
+						<a href="./People/Rene_Lopez.html"> People </a>
 						<div class="div-sub_nav">
 							<table>
 								<tbody>
@@ -169,132 +130,148 @@
 	</header>
 	<div id="main">
 		<div id="left_main" class="column">
+			<div id="About" class="stuff">
+				<div class="stuff_title">
+					<h2><a href="./About/Lab_facilities.html"> About </a></h2>
+					<p>
+						This group is run by mister rene lopez and we do science in chapman hall. 
+					</p>
+				</div>
+			</div>
 			<div id="research" class="stuff">
 				<div class="stuff_title">
 					<h2><a href="./Research/Current_research.html"> Current Research </a></h2>
 				</div>
-				<div class="research_block">
+				<div id="test" class="research_block">
 					<div class="research_block_words">
-						<script>
-						xmlhttp=new XMLHttpRequest();
-						xmlhttp.open("GET","./test.xml",false);
-						xmlhttp.send();
-						xmlDoc=xmlhttp.responseXML;
-						document.write("<h3>");
-						document.write(xmlDoc.getElementsByTagName("research")[0].getElementsByTagName("title")[0].childNodes[0].nodeValue);
-						document.write("</h3><p>");
-						document.write(xmlDoc.getElementsByTagName("research")[0].getElementsByTagName("description")[0].childNodes[0].nodeValue);
-						document.write("</p>");
-						</script>
-					</div>
-					<div class="research_block_imgs">
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Xsmall.jpg" alt="" /></a>
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Xsmall.jpg" alt="" /></a>
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Xsmall.jpg" alt="" /></a>
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Xsmall.jpg" alt="" /></a>
-					</div>
-				</div>
-				<div class="research_block">
-					<div class="research_block_words">
-						<h3 id="res_title2">Insert title here</h3>
-						<p id="res_descrip2">
-							Insert description here
+						<h3> Bio-inspired color-tunable systems (2012-Present)</h3>
+						<p>
+							Tremendous progress has been made in display devices and virtual reality methods over the years, yet the primary representation remains “through the window”—we look, feel, or move using a computer interface that acts as a portal into a simulated world. Even with the best projection systems light emitting devices offer very limited simulations of the real world. There is a real need to explore novel material concepts in texture and color control to create physical manifestations of virtual objects. The major challenge for this revolution is the need of a new type of pixel that can change color and texture in a flexible substrate. Natural masterpieces such as the cuttlefish’s color- and texture-changing abilities prove that such technology is essentially possible, and that it is up to us to learn from nature’s blueprints. To that end we propose to comprehensively address the full opto-mechanical requirements to build structurally active designs to enable efficient color and texture surface control. 
 						</p>
 					</div>
 					<div class="research_block_imgs">
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Xsmall.jpg" alt="" /></a>
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Xsmall.jpg" alt="" /></a>
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Xsmall.jpg" alt="" /></a>
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Xsmall.jpg" alt="" /></a>
+						<a class="fancybox" 
+						title="Ultrastructure fabrication toward most intricate structures. (a) Cup shape cavities by isotropic RIE, (b) square grating structure by anisotropic RIE, (c) complex structures by integration of isotropic and anisotropic, (d) sawtooth types structures by isotropic RIE, (e) oblique angled gratings by oblique angle RIE, (f) porous hierarchical photonic structures mimicking butterfly lumen, (e) Morpho type ultrastructures integrated with cavities in the lumen. Scale bar 1000 nm." 
+						rel="group1" href="./images/research/butterfly1.jpg"><img height=150px src="./images/research/butterfly1.jpg" alt="" /></a>
+						<a class="fancybox"
+						title="a) Morpho butterfly, b) wing photonic structure, c) nanofabricated in polymer"
+						rel="group1" href="./images/research/butterfly2.jpg"><img height=150px src="./images/research/butterfly2.jpg" alt="" /></a>
 					</div>
 				</div>
 				<div class="research_block">
 					<div class="research_block_words">
-						<h3 id="res_title3">  Insert title here</h3>
+						<h3> Materials/Photoanode for dye sensitized photoelectrochemical cells (DSPECs) (2009-Present)</h3>
 						<p id="res_descrip3">
-							Insert description here
+							Concerns about future limitations of the availability of hydrocarbons and the already ongoing global greenhouse problem continue to encourage the development of hydrogen as a carrier and storage medium of energy. In dye sensitized photoelectrochemical cell (DSPEC) applications, semiconductor requirements include high surface areas for adequate assembly loading, good transport properties (long carrier lifetimes relative to recombination), and a suitable energy band structure for promoting electron or hole injection for the latter, at potentials sufficient to drive hydrogen reduction at the counter electrode. We have developed a new pulsed laser deposition (PLD) method to fabricate candidate oxide photoanodes with a hierarchical and preferentially vertical arrangement. Given the nature of the fabrication process, morphology is largely independent of material and we have successfully applied PLD to the fabrication of high-potential conduction band oxides such as Nb<sub>2</sub>O<sub>5</sub>, SrTiO<sub>3</sub> and Ta<sub>2</sub>O<sub>5</sub>. This is work that continues under the umbrella of the UNC-Energy Frontier Research Center.			
 						</p>
 					</div>
 					<div class="research_block_imgs">
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Xsmall.jpg" alt="" /></a>
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Xsmall.jpg" alt="" /></a>
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Xsmall.jpg" alt="" /></a>
-						<a class="fancybox" rel="group" href="./images/Space_shuttle2Big.jpg"><img src="./images/Space_shuttle2Xsmall.jpg" alt="" /></a>
+						<a class="fancybox" 
+						title="Cross section of our Nb<sub>2</sub>O<sub>5</sub> film growth by novel Pulse Laser deposition approach"
+						rel="group2" href="./images/research/DSPEC1.jpg"><img height=150px src="./images/research/DSPEC1.jpg" alt="" /></a>
+						<a class="fancybox"
+						title="Oxide nanoforest grown on a patterned substrate by pulse laser ablation under a 100 mTorr oxygen background. Surface area directly controlled by target substrate distance, a) 50 mm, b) 62 mm, c) 74 mm, and d) 88 mm"
+						rel="group2" href="./images/research/DSPEC2.jpg"><img height=150px src="./images/research/DSPEC2.jpg" alt="" /></a>
 					</div>
+
 				</div>
-			</div>
-			<div id="news" class="stuff">
-				<div class="stuff_title">
-					<h2><a href="./News/News.html"> Recent News </a></h2>
-				</div>
-				<div class="news_block" id="news2">
-					<div class="news_block_imgs">
-						<a class="fancybox" rel="group" href="./images/Old_website.png"><img src="./images/Old_websiteSmall.png" alt="" /></a>
-						<p class="caption">Our old homepage.</p>
-					</div>
-					<div class="news_block_words">
-						<h3 class="news_title" id="news_title2">
-							New website!
-						</h3>
-						<h5 class="news_date">
-							April 26, 2013
-						</h5>
-						<p id="news_descrip2">
-							We are pleased to announce a brand new website custom designed to help publicize our research, improve our recruting efforts, and increase group cohesion. Our very own Travis Hairfield spent over four months building the new site from the ground up. As the website is so new, there may be bugs left in it. If you find one, help us out and send a quick message at the "Feedback" link at the bottom of the page.
+				<div class="research_block">
+					<div class="research_block_words">
+						<h3> Photonic Nanostructure of in Solar Cells (2007-Present)</h3>
+						<p>
+							Sunlight is the most abundant and sustainable source of energy available. However exploiting its concentrated fossil fuel forms has negative environmental and geopolitical consequences. Despite these known facts, societies do not price correctly the use of non-renewable fuel deposits, appearing the “cheapest” way to supply the world with energy. Despite this uphill situation, an economic upheaval in direct solar energy conversion technology seems possible. A technology can only have a chance of being disrupting if its costs are lower than that of comparable silicon cells and performs with commercial module photon conversion efficiencies (PCE) > 15 % (~20 % in laboratory). We advocate that sustainable energy research cannot be blind to these realities. 
 						</p>
+						<p>
+							Clearly abundant and low cost materials are the only ones with a chance to surpass silicon’s cost trajectory. This is why we are committed to bet on alternative systems: namely organic, hybrid, and quantum dot solar cells. The key adversative problem –light absorption vs. carrier transport–, present in all types alternative photovoltaic materials is for most part being addressed on by improving the intrinsic characteristic of PV-active materials. As has been proven by Bulk Heterojunction devices the problem is surmountable by separating the absorption and transport issues and the key lies in identifying the correct length scales that need to be addressed...
+							<a href="./research/current_research.html#solar_cell"> Keep reading here </a>
+						</p>
+						
+					</div>
+					<div class="research_block_imgs">
+						<a class="fancybox" 
+						title="Nanostructured OPV device. (a) Whole view of the cross-section. (b) Detail of the structure "
+						rel="group3" href="./images/research/solar_cell1.jpg"><img height=150px src="./images/research/solar_cell1.jpg" alt="" /></a>
+						<a class="fancybox" 
+						title="ITO pillars coated with high surface area TiO<sub>2</sub>. Scale bar 1.0 μm"
+						rel="group3" href="./images/research/solar_cell2.jpg"><img height=150px src="./images/research/solar_cell2.jpg" alt="" /></a>
 					</div>
 				</div>
-			</div>
-			<div id="papers" class="stuff">
-				<div class="stuff_title">
-					<h2><a href="./Research/Past_publications.html"> Recent Publications </a></h2>
+				<div class="research_block">
+					<h3> <a href="./research/current_research.html"> Read about more research projects here</a>
+					</div>
 				</div>
-				<ul>
-					<li class='citation'>
-						Liu, Yingchi, Kirsch, Christoph, Gadisa, Abay, Aryal, Mukti, Mitran, Sorin, Samulski, Edward T, Lopez, Rene. 
-						<i> Effects of nano-patterned versus simple flat active layers in upright organic photovoltaic devices</i>. 
-						Journal of Physics D: Applied Physics 46, 024008, (2013).
-					</li> 
+				<div id="news" class="stuff">
+					<div class="stuff_title">
+						<h2><a href="./News/News.html"> Recent News </a></h2>
+					</div>
+					<div class="news_block" id="news2">
+						<div class="news_block_imgs">
+							<a class="fancybox" rel="group" href="./images/Old_website.png"><img src="./images/Old_websiteSmall.png" alt="" /></a>
+							<p class="caption">Our old homepage.</p>
+						</div>
+						<div class="news_block_words">
+							<h3 class="news_title" id="news_title2">
+								New website!
+							</h3>
+							<h5 class="news_date">
+								April 26, 2013
+							</h5>
+							<p id="news_descrip2">
+								We are pleased to announce a brand new website custom designed to help publicize our research, improve our recruting efforts, and increase group cohesion. Our very own Travis Hairfield spent over four months building the new site from the ground up. As the website is so new, there may be bugs left in it. If you find one, help us out and send a quick message at the "Feedback" link at the bottom of the page.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div id="papers" class="stuff">
+					<div class="stuff_title">
+						<h2><a href="./Research/Past_publications.html"> Recent Publications </a></h2>
+					</div>
+					<ul>
+						<li class='citation'>
+							Liu, Yingchi, Kirsch, Christoph, Gadisa, Abay, Aryal, Mukti, Mitran, Sorin, Samulski, Edward T, Lopez, Rene. 
+							<i> Effects of nano-patterned versus simple flat active layers in upright organic photovoltaic devices</i>. 
+							Journal of Physics D: Applied Physics 46, 024008, (2013).
+						</li> 
 
-					<li class='citation'>
-						Ok, Myoung-Ryul, Ghosh, Rudresh, Brennaman, M Kyle, Lopez, Rene, Meyer, Thomas J, Samulski, Edward T. 
-						<i> Surface patterning of mesoporous niobium oxide films for solar energy conversion.</i>. 
-						ACS applied materials \& interfaces 5, 3469-74, (2013).
-					</li> 
+						<li class='citation'>
+							Ok, Myoung-Ryul, Ghosh, Rudresh, Brennaman, M Kyle, Lopez, Rene, Meyer, Thomas J, Samulski, Edward T. 
+							<i> Surface patterning of mesoporous niobium oxide films for solar energy conversion.</i>. 
+							ACS applied materials \& interfaces 5, 3469-74, (2013).
+						</li> 
 
-					<li class='citation'>
-						Lundgren, Christin, Lopez, Rene, Redwing, Joan, Melde, Kathleen. 
-						<i> FDTD modeling of solar energy absorption in silicon branched nanowires</i>. 
-						Optics Express 21, A392, (2013).
-					</li> 
+						<li class='citation'>
+							Lundgren, Christin, Lopez, Rene, Redwing, Joan, Melde, Kathleen. 
+							<i> FDTD modeling of solar energy absorption in silicon branched nanowires</i>. 
+							Optics Express 21, A392, (2013).
+						</li> 
 
-					<li class='citation'>
-						Alibabaei, Leila, Luo, Hanlin, House, Ralph L., Hoertz, Paul G., Lopez, Rene, Meyer, Thomas J.. 
-						<i> Applications of metal oxide materials in dye sensitized photoelectrosynthesis cells for making solar fuels: let the molecules do the work</i>. 
-						Journal of Materials Chemistry A 1, 4133, (2013).
-					</li> 
-				</ul>
+						<li class='citation'>
+							Alibabaei, Leila, Luo, Hanlin, House, Ralph L., Hoertz, Paul G., Lopez, Rene, Meyer, Thomas J.. 
+							<i> Applications of metal oxide materials in dye sensitized photoelectrosynthesis cells for making solar fuels: let the molecules do the work</i>. 
+							Journal of Materials Chemistry A 1, 4133, (2013).
+						</li> 
+					</ul>
+				</div>
 			</div>
+			<div id="right_main" class="column">
+			</div>
+			<br class="clear"/>
 		</div>
-		<div id="right_main" class="column">
-		</div>
-		<br class="clear"/>
-	</div>
-	<footer id="footer">
-		<div id="footer-bar"></div>
-		<div id="footer-id">
-			<a href="http://unc.edu"> University of North Carolina at Chapel Hill</a>
-			<br>
-			<a href="http://physics.unc.edu"> Department of Physics and Astronomy</a>
-		</div>
-		<div id="footer-nav">
-			<a href="./Contact.html">Contact Us</a>
-			<br>
-			<a href="./Feedback.html">Feedback</a>
-			<br>
-			<a href="./Site_credits.html">Site Credits</a>
-			<br>
-		</div>
-	</footer>
-</body>
-</html>
+		<footer id="footer">
+			<div id="footer-bar"></div>
+			<div id="footer-id">
+				<a href="http://unc.edu"> University of North Carolina at Chapel Hill</a>
+				<br>
+				<a href="http://physics.unc.edu"> Department of Physics and Astronomy</a>
+			</div>
+			<div id="footer-nav">
+				<a href="./Contact.html">Contact Us</a>
+				<br>
+				<a href="./Feedback.html">Feedback</a>
+				<br>
+				<a href="./Site_credits.html">Site Credits</a>
+				<br>
+			</div>
+		</footer>
+	</body>
+	</html>

@@ -19,12 +19,12 @@
 	<link rel="shortcut icon" href="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sun.svg/35px-Sun.svg.png">
 	<script>
 	$(document).ready(function() {
-	xmlhttp=new XMLHttpRequest();
-	xmlhttp.open("GET","./People.xml",false);
-	xmlhttp.send();
-	xmlDoc=xmlhttp.responseXML;
+		xmlhttp=new XMLHttpRequest();
+		xmlhttp.open("GET","./People.xml",false);
+		xmlhttp.send();
+		xmlDoc=xmlhttp.responseXML;
 
-	personNode = xmlDoc.getElementsByTagName("person")[0];
+		personNode = xmlDoc.getElementsByTagName("person")[0];
 
 	/*name = personDoc.getElementsByTagName("name")[0].childNodes[1].childNodes[0].nodeValue
 	+ personDoc.getElementsByTagName("name")[0].childNodes[3].childNodes[0].nodeValue;
@@ -63,7 +63,7 @@
 
 
 });
-	</script>
+</script>
 </head>
 <body id="body">
 	<header id="header">
@@ -84,7 +84,10 @@
 			<div class="menu-main_nav-container">
 				<ul class="menu-main_nav">
 					<li class="menu-item">
-						<a> About </a>
+						<a href="../index.html"> Home </a>
+					</li>
+					<li class="menu-item">
+						<a href="../About/Lab_facilities.html"> About </a>
 						<div class="div-sub_nav">
 							<table>
 								<tbody>
@@ -116,7 +119,10 @@
 													<a href="../Research/Current_research.html"> Current Research </a>
 												</li>
 												<li class="sub_menu-item">
-													<a href="../Research/Past_publications.html"> Past Publications</a>
+													<a href="../Research/Current_research.html#past_research"> Past Research </a>
+												</li>
+												<li class="sub_menu-item">
+													<a href="../Research/Past_publications.html"> Publications</a>
 												</li>
 											</ul>
 										</td>
@@ -128,8 +134,8 @@
 					<li class="menu-item">
 						<a href="../News/News.html"> News </a>
 					</li>
-					<li class="last menu-item selected_tab">
-						<a> People </a>
+					<li class="menu-item selected_tab">
+						<a href="../People/Rene_Lopez.html"> People </a>
 						<div class="div-sub_nav">
 							<table>
 								<tbody>
@@ -173,37 +179,38 @@
 			<div id="bio_container" class="stuff">
 
 				<div class="stuff_title">
-					<h2 id="name"> Insert name here </h2>
+					<h2 id="name"> Rene Lopez</h2>
 				</div>
 				<div class="bio_block">
 					<div class="bio_block_words">
-						<h3 id="position"> Insert position here </h3>
+						<h3 id="position"> Principal Investigator </h3>
 						<p id="bio">
 							Insert bio here
 						</p>
 					</div>
 					<div class="bio_block_img">
-						<a class="fancybox" rel="group" href="http://sitemason.vanderbilt.edu/files/f/fj5h2o/yo1.jpg"><img src="http://sitemason.vanderbilt.edu/files/f/fj5h2o/yo1.jpg" alt="" /></a>
+						<a class="fancybox" rel="group" href="../images/people/rene_lopez.jpg"><img src="../images/people/rene_lopez.jpg" alt="" /></a>
 					</div>
 				</div>
 				<div class="contact-CV_container">
 					<div class="bio_contact">
 						<h3> Contact </h3>
 						<address> 
-							email: <a id="email_link" href="error">error</a><br>
+							email: <a id="email_link" href="mailto:rln@physics.unc.edu">rln@physics.unc.edu</a><br>
 							<br>
-							phone: <span id="phone_number"> error </span><br>
-							fax: <span id="fax_number"> error </span><br>
+							phone: <span id="phone_number"> 919-962-7216 </span><br>
+							fax: <span id="fax_number"> 919-962-0480 </span><br>
 							<br>
-							<span id="add_line1"> error </span><br>
-							<span id="add_line2"> error </span><br>
-							<span id="add_line3"> error </span><br>
-							<span id="add_line4"> error </span>
+							<span id="add_line1"> 343 Chapman Hall </span><br>
+							<span id="add_line2"> Department of Physics and Astronomy  </span><br>
+							<span id="add_line3"> University of North Carolina at Chapel Hill </span><br>
+							<span id="add_line4"> Chapel Hill, NC 27599 </span>
 						</address>	
 					</div>	
 					<div id="CV">
 						<h3> Curriculum Vitae </h3>
-						<a id="CV_link" href="error"> Download here (PDF) </a>
+						<a id="CV_link" href="http://sitemason.vanderbilt.edu/files/c/c95X8Y/Rene%20Lopez%20CV.pdf
+						"> Download here (PDF) </a>
 					</div>
 					<br class="clear"/>
 				</div>
