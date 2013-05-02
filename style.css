@@ -84,6 +84,7 @@ body {
 }
 
 .access {
+	z-index:999;
 	display: block;
 	background: #56A0D3;
 	height: 40px;
@@ -124,6 +125,7 @@ body {
 	font-size: 16px;
 	font-weight: normal;
 	text-align: center;
+
 }
 
 .div-sub_nav {
@@ -132,6 +134,7 @@ body {
 	position: absolute;
 	margin: 30px 0px 5px 15px;
 	top: 10px;
+
 }
 .div-sub_nav ul {
 	display: block;
@@ -141,6 +144,7 @@ body {
 	width: 140px;
 	z-index: 99999;
 	background: #dedede;
+
 }
 
 .sub_menu-item a {
@@ -149,6 +153,7 @@ body {
 	line-height: 1em;
 	font-weight: 300;
 	font-size: 16px;
+
 }
 
 .div-sub_nav table {
@@ -159,6 +164,7 @@ body {
 	padding:0px;
 	margin:0px;
 	border-spacing:0;
+
 }
 
 	.menu-item:hover > a,
@@ -167,16 +173,21 @@ body {
 	border-bottom: 4px solid #2370A0;
 	padding-bottom:0px;
 
+
 }
 .selected_tab{
 	background:#dedede;
 }
 .div-sub_nav ul a:hover {
 	background: #cecece;
+	
+
 }
 .access ul li:hover > div {
 	display: block;
 	background: #dedede;
+
+
 	
 }
 
@@ -299,7 +310,8 @@ body {
 .citation a,
 .contact-CV_container a,
 .credits_block a,
-.research_block a{
+.research_block a,
+.bio_block a{
 	color: -webkit-link;
 }
 
@@ -356,3 +368,35 @@ footer a:hover {
  	margin-top:20px;
  	float:right;
  }
+
+
+ /********* Orbit ******/
+
+ #container {
+	width:750px;
+	margin-left:55px;
+
+}
+#front_container {
+	border:10px solid #fff;
+}
+#front_featured {
+}
+    
+.content { 
+	background: url(./images/lab/IMG_2825.jpg); 
+	}
+.content h1 {
+	font-size: 40px; 
+	text-transform: uppercase; 
+	font-weight: bold; 
+	text-align: center;
+	margin-top: 180px;
+	color: #fff;
+	line-height: 50px; 
+	}
+.content h3 {
+	text-align: center; 
+	font-size: 22px; 
+	color: #fff; }
+    

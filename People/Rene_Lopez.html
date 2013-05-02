@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="UTF-8">
 	<link rel="stylesheet" type="text/css" media="all" href="../style.css">
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100' rel='stylesheet' type='text/css'>
 	<script type="text/javascript" src="../jquery-1.7.1.min.js"></script>
@@ -17,53 +18,7 @@
 	<script type="text/javascript" src="../initV7.js"></script>
 	<title>Nanoscale Optical Materials</title>
 	<link rel="shortcut icon" href="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sun.svg/35px-Sun.svg.png">
-	<script>
-	$(document).ready(function() {
-		xmlhttp=new XMLHttpRequest();
-		xmlhttp.open("GET","./People.xml",false);
-		xmlhttp.send();
-		xmlDoc=xmlhttp.responseXML;
-
-		personNode = xmlDoc.getElementsByTagName("person")[0];
-
-	/*name = personDoc.getElementsByTagName("name")[0].childNodes[1].childNodes[0].nodeValue
-	+ personDoc.getElementsByTagName("name")[0].childNodes[3].childNodes[0].nodeValue;
-	***Dont forget the child node in between child nodes
-	*/
-
-	nameNode = personNode.getElementsByTagName("name")[0];
-	document.getElementById("name").innerHTML=
-	nameNode.getElementsByTagName("first")[0].childNodes[0].nodeValue
-	+nameNode.getElementsByTagName("last")[0].childNodes[0].nodeValue;
-	document.getElementById("position").innerHTML=
-	personNode.getElementsByTagName("position")[0].childNodes[0].nodeValue;
-	document.getElementById("bio").innerHTML=
-	personNode.getElementsByTagName("bio")[0].childNodes[0].nodeValue;
-
-	document.getElementById("phone_number").innerHTML=
-	personNode.getElementsByTagName("phone")[0].childNodes[0].nodeValue;
-	document.getElementById("fax_number").innerHTML=
-	personNode.getElementsByTagName("fax")[0].childNodes[0].nodeValue;
-
-	document.getElementById("add_line1").innerHTML=
-	personNode.getElementsByTagName("line1")[0].childNodes[0].nodeValue;
-	document.getElementById("add_line2").innerHTML=
-	personNode.getElementsByTagName("line2")[0].childNodes[0].nodeValue;
-	document.getElementById("add_line3").innerHTML=
-	personNode.getElementsByTagName("line3")[0].childNodes[0].nodeValue;
-	document.getElementById("add_line4").innerHTML=
-	personNode.getElementsByTagName("line4")[0].childNodes[0].nodeValue;
-
-	document.getElementById("email_link").href=
-	"mailto:" + personNode.getElementsByTagName("email")[0].childNodes[0].nodeValue;
-	document.getElementById("email_link").innerHTML=
-	personNode.getElementsByTagName("email")[0].childNodes[0].nodeValue;
-	document.getElementById("CV_link").href=
-	personNode.getElementsByTagName("CV")[0].childNodes[0].nodeValue;
-
-
-});
-</script>
+	
 </head>
 <body id="body">
 	<header id="header">
@@ -165,9 +120,6 @@
 						</div>
 					</li>
 					<li class="menu-item">
-						<a href="../Resources/Resources.html"> Resources </a>
-					</li>
-					<li class="menu-item">
 						<a href="../Join/Join.html"> Join </a>
 					</li>
 				</ul>
@@ -185,11 +137,11 @@
 					<div class="bio_block_words">
 						<h3 id="position"> Principal Investigator </h3>
 						<p id="bio">
-							Insert bio here
+							Dr. Lopez obtained his Bachelor degree from the Monterrey Institute of Technology (Mexico), and his Master and Doctoral degrees from Vanderbilt University (USA). He worked at the Oak Ridge National Laboratory and Vanderbilt University before joining the Faculty of the University of North Carolina at Chapel Hill (USA). He currently heads a group that does research in optical materials. In particular, bio-inspired photonic structures for organic photovoltaics, dye sensitized solar cells, sensors and electro-chromic materials.
 						</p>
 					</div>
 					<div class="bio_block_img">
-						<a class="fancybox" rel="group" href="../images/people/rene_lopez.jpg"><img src="../images/people/rene_lopez.jpg" alt="" /></a>
+						<a class="fancybox" rel="group" href="../images/people/rene_lopez.jpg"><img width="300px" src="../images/people/rene_lopez.jpg" alt="" /></a>
 					</div>
 				</div>
 				<div class="contact-CV_container">
@@ -209,8 +161,8 @@
 					</div>	
 					<div id="CV">
 						<h3> Curriculum Vitae </h3>
-						<a id="CV_link" href="http://sitemason.vanderbilt.edu/files/c/c95X8Y/Rene%20Lopez%20CV.pdf
-						"> Download here (PDF) </a>
+						<a id="CV_link" href="../Rene_Lopez_full_CV.pdf">
+						Download here (PDF) </a>
 					</div>
 					<br class="clear"/>
 				</div>

@@ -2,9 +2,15 @@
 <html>
 <head>
 	<meta charset="UTF-8">
+	<link rel="stylesheet" href="./orbit-1.2.3.css">
+
+
 	<link rel="stylesheet" type="text/css" media="all" href="./style.css">
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100' rel='stylesheet' type='text/css'>
 	<script type="text/javascript" src="./jquery-1.7.1.min.js"></script>
+
+	<script type="text/javascript" src="./jquery.orbit-1.2.3.min.js"></script>
+
 	<!-- Add fancyBox -->
 	<link rel="stylesheet" href="./fancybox/source/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen" />
 	<script type="text/javascript" src="./fancybox/source/jquery.fancybox.pack.js?v=2.1.4"></script>
@@ -16,6 +22,17 @@
 	<link rel="stylesheet" href="./fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
 	<script type="text/javascript" src="./fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
 	<script type="text/javascript" src="./initV7.js"></script>
+	<script type="text/javascript">
+	$(window).load(function() {
+		$('#front_featured').orbit({
+			animation:'fade',
+			directionalNav:false,
+			animationSpeed:800,
+			advanceSpeed:6000,
+
+		});
+	});
+	</script>
 	<title>Nanoscale Optical Materials</title>
 	<link rel="shortcut icon" href="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sun.svg/35px-Sun.svg.png">
 </head>
@@ -119,23 +136,34 @@
 						</div>
 					</li>
 					<li class="menu-item">
-						<a href="./Resources/Resources.html"> Resources </a>
-					</li>
-					<li class="menu-item">
 						<a href="./Join/Join.html"> Join </a>
 					</li>
 				</ul>
 			</div>
 		</nav>
 	</header>
+	
 	<div id="main">
 		<div id="left_main" class="column">
+
 			<div id="About" class="stuff">
 				<div class="stuff_title">
-					<h2><a href="./About/Lab_facilities.html"> About </a></h2>
-					<p>
-						This group is run by mister rene lopez and we do science in chapman hall. 
-					</p>
+					<h2> Focus </h2>
+				</div>
+				<p>
+					Our research group's interest focuses at the intersection between <i>electromagnetic radiation and nanostructured materials</i>. Beyond its well established footprint in telecommunications, the physics of light manipulation and control with/within nanoscale materials is nowadays a rendezvous point for solar energy harvesting, chemical sensors, and photonic structures with a variety of applications. Below you may find a list of our projects:
+				</p>
+				
+			</div>
+			<div id="front_container">
+				<div id="front_featured"> 
+					<!--<a href=""><img height=400px src="../images/lab/IMG_2823.jpg" /></a>-->
+					<img src="./images/banner/banner1.jpg" />
+					<img src="./images/banner/banner2.jpg" />
+					<img src="./images/banner/banner3.jpg" />
+					<img src="./images/banner/banner4.jpg" />
+					<img src="./images/banner/banner5.jpg" />
+					
 				</div>
 			</div>
 			<div id="research" class="stuff">
@@ -183,7 +211,7 @@
 						</p>
 						<p>
 							Clearly abundant and low cost materials are the only ones with a chance to surpass silicon’s cost trajectory. This is why we are committed to bet on alternative systems: namely organic, hybrid, and quantum dot solar cells. The key adversative problem –light absorption vs. carrier transport–, present in all types alternative photovoltaic materials is for most part being addressed on by improving the intrinsic characteristic of PV-active materials. As has been proven by Bulk Heterojunction devices the problem is surmountable by separating the absorption and transport issues and the key lies in identifying the correct length scales that need to be addressed...
-							<a href="./research/current_research.html#solar_cell"> Keep reading here </a>
+							<a href="./Research/Current_research.html#solar_cell"> Keep reading here </a>
 						</p>
 						
 					</div>
@@ -197,7 +225,7 @@
 					</div>
 				</div>
 				<div class="research_block">
-					<h3> <a href="./research/current_research.html"> Read about more research projects here</a>
+					<h3> <a href="./Research/Current_research.html"> Read about more research projects here</a>
 					</div>
 				</div>
 				<div id="news" class="stuff">
@@ -228,27 +256,31 @@
 					</div>
 					<ul>
 						<li class='citation'>
-							Liu, Yingchi, Kirsch, Christoph, Gadisa, Abay, Aryal, Mukti, Mitran, Sorin, Samulski, Edward T, Lopez, Rene. 
-							<i> Effects of nano-patterned versus simple flat active layers in upright organic photovoltaic devices</i>. 
-							Journal of Physics D: Applied Physics 46, 024008, (2013).
-						</li> 
-
-						<li class='citation'>
-							Ok, Myoung-Ryul, Ghosh, Rudresh, Brennaman, M Kyle, Lopez, Rene, Meyer, Thomas J, Samulski, Edward T. 
+							Ok, Ghosh, Brennaman, Lopez, Meyer, Samulski. 
 							<i> Surface patterning of mesoporous niobium oxide films for solar energy conversion.</i>. 
-							ACS applied materials \& interfaces 5, 3469-74, (2013).
+							ACS applied materials & interfaces 5, 3469-74, (2013).
+							<a href='http://dx.doi.org/10.1021/am400598u'>http://dx.doi.org/10.1021...</a>
 						</li> 
 
 						<li class='citation'>
-							Lundgren, Christin, Lopez, Rene, Redwing, Joan, Melde, Kathleen. 
-							<i> FDTD modeling of solar energy absorption in silicon branched nanowires</i>. 
-							Optics Express 21, A392, (2013).
-						</li> 
-
-						<li class='citation'>
-							Alibabaei, Leila, Luo, Hanlin, House, Ralph L., Hoertz, Paul G., Lopez, Rene, Meyer, Thomas J.. 
+							Alibabaei, Luo, House, Hoertz, Lopez, Meyer. 
 							<i> Applications of metal oxide materials in dye sensitized photoelectrosynthesis cells for making solar fuels: let the molecules do the work</i>. 
 							Journal of Materials Chemistry A 1, 4133, (2013).
+							<a href='http://pubs.rsc.org/en/content/articlehtml/2013/ta/c2ta00935h'>http://pubs.rsc.org/en/co...</a>
+						</li> 
+
+						<li class='citation'>
+							Liu, Kirsch, Gadisa, Aryal, Mitran, Samulski, Lopez. 
+							<i> Effects of nano-patterned versus simple flat active layers in upright organic photovoltaic devices</i>. 
+							Journal of Physics D: Applied Physics 46, 024008, (2013).
+							<a href='http://stacks.iop.org/0022-3727/46/i=2/a=024008?key=crossref.9361556c24ababd738c701c3edc808ee'>http://stacks.iop.org/002...</a>
+						</li> 
+
+						<li class='citation'>
+							Lundgren, Lopez, Redwing, Melde. 
+							<i> FDTD modeling of solar energy absorption in silicon branched nanowires</i>. 
+							Optics Express 21, A392, (2013).
+							<a href='http://www.opticsexpress.org/abstract.cfm?URI=oe-21-103-A392'>http://www.opticsexpress....</a>
 						</li> 
 					</ul>
 				</div>
